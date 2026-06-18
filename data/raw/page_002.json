@@ -1,0 +1,7318 @@
+{
+  "name": "OGDP API",
+  "version": "2.0.5",
+  "statusCode": 200,
+  "total": 164,
+  "data": {
+    "rows": [
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/growth-rates-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          2215
+        ],
+        "published_date": [
+          1420716816
+        ],
+        "body:value": [
+          "Growth rate is a measure of economic growth from one period to another in percentage terms. This measure does not adjust for inflation, it is expressed in nominal terms. "
+        ],
+        "changed": [
+          1420716816
+        ],
+        "created": [
+          1420442503
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Estimates of State Domestic product Madhya Pradesh 2004-05 \u2013 2012-13"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "Growth",
+          "Rate"
+        ],
+        "nid": [
+          165637
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Growth Rates of Madhya Pradesh"
+        ],
+        "uuid": [
+          "0985a9dc-d3df-4506-909b-5ef3fccae140"
+        ],
+        "vid": [
+          7891425
+        ],
+        "view_count": [
+          2056
+        ],
+        "search_api_id": [
+          "entity:node/165637:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/price-indices-2004-05"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          1563
+        ],
+        "published_date": [
+          1420025885
+        ],
+        "body:value": [
+          "Price Indices (2004-05). Data includes the price indices like implicit price index- Net State Domestic Product, Wholesale price index all India, Consumer price index for Madhya Pradesh for industrial workers and Rural Agricultural Labourers."
+        ],
+        "changed": [
+          1420025885
+        ],
+        "created": [
+          1419410758
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Estimates of State Domestic product Madhya Pradesh 2004-05 \u2013 2012-13"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "statistics",
+          "Price",
+          "Indices"
+        ],
+        "nid": [
+          164002
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Price Indices (2004-05)"
+        ],
+        "uuid": [
+          "93ce4368-71c9-4a69-892b-f2bb5b4cd946"
+        ],
+        "vid": [
+          7891324
+        ],
+        "view_count": [
+          1354
+        ],
+        "search_api_id": [
+          "entity:node/164002:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/production-major-minerals"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          3568
+        ],
+        "published_date": [
+          1420026325
+        ],
+        "body:value": [
+          "Get production of Major Minerals. Data refer to the production of mineral like coal, Manganese Ore, Bauxite, Iron Ore, Copper Ore, Dolomite, Limestone and Diamond in Madhya Pradesh."
+        ],
+        "changed": [
+          1420026325
+        ],
+        "created": [
+          1419410287
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Estimates of State Domestic product Madhya Pradesh 2004-05 \u2013 2012-13"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "mineral",
+          "Production"
+        ],
+        "nid": [
+          163993
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Production of Major Minerals"
+        ],
+        "uuid": [
+          "5f9a2b69-ba3c-4156-833c-8585aff00f8c"
+        ],
+        "vid": [
+          7891320
+        ],
+        "view_count": [
+          3321
+        ],
+        "search_api_id": [
+          "entity:node/163993:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/mp-head-office-level-cooperative-societies"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          6890
+        ],
+        "published_date": [
+          1419232553
+        ],
+        "body:value": [
+          "Data having the detail of Apex Societies and Primary non-agriculture credit cooperative societies in Madhya Pradesh. Detail consists of society name, district, type of society, their registration numbers and their registration date. There are 17 Apex level societies and 51 Primary non-agriculture credit cooperative societies at Head office level. Anyone can get the detail of the society form this data set and further refer to the office of the Registrar Cooperative Societies website: http://mpsc.mp.nic.in/ecooperatives for more detail about the Society i.e. address, contact person, election date etc. "
+        ],
+        "changed": [
+          1419232553
+        ],
+        "created": [
+          1418636709
+        ],
+        "field_asset_jurisdiction:name": [
+          "Bhopal"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_sector:name": [
+          "Others"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Co-operation Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "Agriculture",
+          "Credit",
+          "primary",
+          "Cooperative",
+          "Apex",
+          "Society",
+          "Akrishi"
+        ],
+        "nid": [
+          160933
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "MP Head Office level Cooperative Societies"
+        ],
+        "uuid": [
+          "5bf55daa-eedb-43a3-a93b-e65784cd7321"
+        ],
+        "vid": [
+          7891271
+        ],
+        "view_count": [
+          6729
+        ],
+        "search_api_id": [
+          "entity:node/160933:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/advance-estimates-state-income-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          724
+        ],
+        "published_date": [
+          1420789174
+        ],
+        "body:value": [
+          "In calculating quarterly Income, the first estimate published approximately one month after the end of a quarter. It includes all information then available, but because relevant information may not be available immediately or may be subject to revision, it is subject to scrutiny and is usually revised in the preliminary estimate and later in the final estimate. As a result, the advance estimate is considered important as a guideline to performance in a quarter, but it is not necessarily the most accurate measure."
+        ],
+        "changed": [
+          1420789174
+        ],
+        "created": [
+          1417161196
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Estimates of State Domestic product Madhya Pradesh 2004-05 \u2013 2012-13"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "estimated",
+          "Income"
+        ],
+        "nid": [
+          153580
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Advance Estimates of State Income of Madhya Pradesh"
+        ],
+        "uuid": [
+          "50efba05-c90f-48cd-a392-6f2fc3476c70"
+        ],
+        "vid": [
+          7891158
+        ],
+        "view_count": [
+          653
+        ],
+        "search_api_id": [
+          "entity:node/153580:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/capita-income-all-india-and-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          9218
+        ],
+        "published_date": [
+          1418206559
+        ],
+        "body:value": [
+          "Per capita income, also known as income per person, is the mean income of the people in an economic unit such as a country or city. It is calculated by taking a measure of all sources of income in the aggregate (such as GDP or Gross national income) and dividing it by the total population.The data describes per capita income -  All India and Madhya Pradesh."
+        ],
+        "changed": [
+          1418206559
+        ],
+        "created": [
+          1417160684
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Estimates of State Domestic product Madhya Pradesh 2004-05 \u2013 2012-13"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "Capita",
+          "Income"
+        ],
+        "nid": [
+          153571
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Per  Capita Income -  All India and Madhya Pradesh"
+        ],
+        "uuid": [
+          "7087ed18-1a9f-4ba7-a9b3-8b98feae3334"
+        ],
+        "vid": [
+          7891150
+        ],
+        "view_count": [
+          8596
+        ],
+        "search_api_id": [
+          "entity:node/153571:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/net-domestic-product-all-india-and-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          2111
+        ],
+        "published_date": [
+          1418207891
+        ],
+        "body:value": [
+          "The net domestic product (NDP) equals the gross domestic product (GDP) minus depreciation on a country capital goods.Net domestic product accounts for capital that has been consumed over the year in the form of housing, vehicle, or machinery deterioration. The depreciation accounted for is often referred to as capital consumption allowance and represents the amount of capital that would be needed to replace those depreciated assets.The data shows net domestic product - All India and Madhya Pradesh"
+        ],
+        "changed": [
+          1418207891
+        ],
+        "created": [
+          1417159888
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Estimates of State Domestic product Madhya Pradesh 2004-05 \u2013 2012-13"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "domestic",
+          "NDP",
+          "product"
+        ],
+        "nid": [
+          153562
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Net Domestic Product - All India and Madhya Pradesh"
+        ],
+        "uuid": [
+          "e6d835d4-56cb-41b1-b76e-2e509cf44ff2"
+        ],
+        "vid": [
+          7891146
+        ],
+        "view_count": [
+          1860
+        ],
+        "search_api_id": [
+          "entity:node/153562:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/gross-domestic-product-all-india-and-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          7890
+        ],
+        "published_date": [
+          1418207297
+        ],
+        "body:value": [
+          "Gross Domestic Product (GDP) defined as an aggregate measure of production equal to the sum of the gross values added of all resident institutional units engaged in production (plus any taxes, and minus any subsidies, on products not included in the value of their outputs). Data shows Gross domestic product - All India and Madhya Pradesh."
+        ],
+        "changed": [
+          1418207297
+        ],
+        "created": [
+          1416375973
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Estimates of State Domestic product Madhya Pradesh 2004-05 \u2013 2012-13"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "domestic",
+          "GDP",
+          "Gross"
+        ],
+        "nid": [
+          147746
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Gross Domestic Product - All India and Madhya Pradesh"
+        ],
+        "uuid": [
+          "42655e3b-5f6a-47d9-a943-201e39fcdeb8"
+        ],
+        "vid": [
+          7891056
+        ],
+        "view_count": [
+          7734
+        ],
+        "search_api_id": [
+          "entity:node/147746:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "api_request_count": [
+          1
+        ],
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/land-utilization"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          2907
+        ],
+        "published_date": [
+          1414663894
+        ],
+        "body:value": [
+          "Data is having the information about the utilization of lands in Madhya Pradesh on the basis of Cultivation, Un-cultivation, Barren and Fallen lands."
+        ],
+        "changed": [
+          1414663894
+        ],
+        "created": [
+          1413874055
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "land",
+          "UTILIZATION",
+          "Barren"
+        ],
+        "nid": [
+          139673
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Land Utilization"
+        ],
+        "uuid": [
+          "7f8b377d-a961-4ebc-9b17-4e41fd51fa1b"
+        ],
+        "vid": [
+          7890983
+        ],
+        "view_count": [
+          2678
+        ],
+        "search_api_id": [
+          "entity:node/139673:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/average-production-major-crops-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          13904
+        ],
+        "published_date": [
+          1414589399
+        ],
+        "body:value": [
+          "The data indicates Year on Year wise average production of major crops like Rice, Wheat, Jwar, Maize, Gram, Towar, Cotton, Sugarcane and Soyabean in Kg per hectare in Madhya pradesh."
+        ],
+        "changed": [
+          1414589399
+        ],
+        "created": [
+          1413873619
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "crop",
+          "Production"
+        ],
+        "nid": [
+          139668
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Average Production of Major Crops in Madhya Pradesh"
+        ],
+        "uuid": [
+          "cf0cffb1-8cf2-4e1a-8bb3-f9c7efb22eef"
+        ],
+        "vid": [
+          7890979
+        ],
+        "view_count": [
+          13445
+        ],
+        "search_api_id": [
+          "entity:node/139668:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/selected-indicators-madhya-pradesh-and-india"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          2569
+        ],
+        "published_date": [
+          1414664323
+        ],
+        "body:value": [
+          "In the data set Population, Sex, Literacy, Birth Rate, Death Rate, Infant Mortality Rate, Banking, Per Capita, Credit and Deposit Ratio etc used as indicator for demographical information or quantifiable statistics of Madhya Pradesh and India."
+        ],
+        "changed": [
+          1414664323
+        ],
+        "created": [
+          1413869482
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "Indicator",
+          "Demography"
+        ],
+        "nid": [
+          139634
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Selected Indicators for Madhya Pradesh and India"
+        ],
+        "uuid": [
+          "5bf99bd6-f9fb-479a-a5e6-d43c836bfe8f"
+        ],
+        "vid": [
+          7890966
+        ],
+        "view_count": [
+          2347
+        ],
+        "search_api_id": [
+          "entity:node/139634:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/net-state-domestic-product-madhya-pradesh-factor-cost-industry-origin-constant-2004-05"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          1249
+        ],
+        "published_date": [
+          1413809086
+        ],
+        "body:value": [
+          "The data refers to Net state domestic product (NSDP) of Madhya Pradesh at factor cost by industry of origin at constant (2004-05) prices. It also classifies industry origin to primary, secondary and tertiary sector.\n"
+        ],
+        "changed": [
+          1413809086
+        ],
+        "created": [
+          1413528793
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "domestic",
+          "NSDP",
+          "product"
+        ],
+        "nid": [
+          137142
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Net state domestic product of Madhya Pradesh at factor cost by industry of origin at constant (2004-05) prices"
+        ],
+        "uuid": [
+          "f29b8d2b-b8cf-4340-b780-b616b4fb4147"
+        ],
+        "vid": [
+          7890937
+        ],
+        "view_count": [
+          1167
+        ],
+        "search_api_id": [
+          "entity:node/137142:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/net-state-domestic-product-madhya-pradesh-factor-cost-industry-origin-current-prices"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          1139
+        ],
+        "published_date": [
+          1413809078
+        ],
+        "body:value": [
+          "The data refers to Net State Domestic Product (NSDP) Of Madhya Pradesh At Factor Cost By Industry Of Origin At Current Prices. The industry of origin is further categorized to primary, secondary and tertiary sector.  \n"
+        ],
+        "changed": [
+          1413809078
+        ],
+        "created": [
+          1413528373
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "cost",
+          "domestic",
+          "NSDP",
+          "product",
+          "Factor"
+        ],
+        "nid": [
+          137139
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Net State Domestic Product Of Madhya Pradesh At Factor Cost By Industry Of Origin At Current Prices"
+        ],
+        "uuid": [
+          "a2a37135-a48f-49b4-9a58-7b179fad0ff1"
+        ],
+        "vid": [
+          7890933
+        ],
+        "view_count": [
+          1010
+        ],
+        "search_api_id": [
+          "entity:node/137139:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/gross-state-domestic-product-madhya-pradesh-factor-cost-industry-origin-constant2004-2005"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          1360
+        ],
+        "published_date": [
+          1413809097
+        ],
+        "body:value": [
+          "The data covers the Gross state domestic product (GSDP) of Madhya Pradesh at factor cost by industry of origin at constant(2004-2005) prices. This also classifies the industry of origin to primary, secondary and  tertiary sector."
+        ],
+        "changed": [
+          1413809097
+        ],
+        "created": [
+          1413527843
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "domestic",
+          "Gross",
+          "GSDP",
+          "Price"
+        ],
+        "nid": [
+          137136
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Gross state domestic product of Madhya Pradesh at factor cost by industry of origin at constant(2004-2005) prices "
+        ],
+        "uuid": [
+          "b34a1a11-8e29-4a83-bc35-325d908fd874"
+        ],
+        "vid": [
+          7890929
+        ],
+        "view_count": [
+          1232
+        ],
+        "search_api_id": [
+          "entity:node/137136:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/gross-state-domestic-product-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          6246
+        ],
+        "published_date": [
+          1413539728
+        ],
+        "body:value": [
+          "Gross State Domestic Product is defined as a measure, in monetary terms, of the volume of all goods and services produced within the boundaries of Madhya Pradesh State during a given period of time, accounted without duplication. The data describes the State level Gross State Domestic Product of Madhya Pradesh at current prices."
+        ],
+        "changed": [
+          1528111694
+        ],
+        "created": [
+          1413527382
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "cost",
+          "domestic",
+          "GDP",
+          "Gross",
+          "GSDP",
+          "prices",
+          "SDP",
+          "MP",
+          "product",
+          "Current",
+          "Factor"
+        ],
+        "nid": [
+          137133
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Gross state domestic product of Madhya Pradesh"
+        ],
+        "uuid": [
+          "36bf98ed-1df3-46bb-b644-79bc6ebad28f"
+        ],
+        "vid": [
+          7890925
+        ],
+        "view_count": [
+          5807
+        ],
+        "search_api_id": [
+          "entity:node/137133:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/gross-district-domestic-product-current-prices"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          5271
+        ],
+        "published_date": [
+          1413808967
+        ],
+        "body:value": [
+          "Gross District Domestic Product is defined as a measure, in monetary terms, of the volume of all goods and services produced within the boundaries of the District during a given period of time, accounted without duplication. The data describes the District level Gross District Domestic Product of Madhya Pradesh and its growth rate at current prices."
+        ],
+        "changed": [
+          1413808967
+        ],
+        "created": [
+          1413526149
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "domestic",
+          "Gross",
+          "prices",
+          "product",
+          "Current"
+        ],
+        "nid": [
+          137128
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Gross District Domestic Product at Current Prices"
+        ],
+        "uuid": [
+          "1906d6f2-fdc8-43a7-8d16-62181aca2e70"
+        ],
+        "vid": [
+          7890920
+        ],
+        "view_count": [
+          4694
+        ],
+        "search_api_id": [
+          "entity:node/137128:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/gross-district-domestic-product-constant-2004-2005-prices"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          1957
+        ],
+        "published_date": [
+          1413808936
+        ],
+        "body:value": [
+          "Gross District Domestic Product is defined as a measure, in monetary terms, of the volume of all goods and services produced within the boundaries of the District during a given period of time, accounted without duplication. The data describes the District level Gross District Domestic Product of Madhya Pradesh and its growth rate at constant prices of the base year 2004-05."
+        ],
+        "changed": [
+          1413808936
+        ],
+        "created": [
+          1413525896
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "domestic",
+          "Gross",
+          "prices",
+          "product",
+          "Constant"
+        ],
+        "nid": [
+          137125
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Gross District Domestic Product At Constant (2004-2005) Prices"
+        ],
+        "uuid": [
+          "bf02154f-aa3e-429f-9275-b84ac23c236d"
+        ],
+        "vid": [
+          7890916
+        ],
+        "view_count": [
+          1878
+        ],
+        "search_api_id": [
+          "entity:node/137125:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/district-wise-net-domestic-product-current-prices"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          2266
+        ],
+        "published_date": [
+          1413809062
+        ],
+        "body:value": [
+          "District wise Net Domestic Product is defined as a measure, in monetary terms, of the volume of all goods and services produced within the boundaries of the district during a given period of time after deducting the wear and tear or depreciation, accounted without duplication. The data describes the District level Net Domestic Product of Madhya Pradesh and its growth rate at current prices."
+        ],
+        "changed": [
+          1413809062
+        ],
+        "created": [
+          1413524965
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "domestic",
+          "NDP",
+          "prices",
+          "product",
+          "Current"
+        ],
+        "nid": [
+          137120
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "District wise Net Domestic Product at Current Prices"
+        ],
+        "uuid": [
+          "963b3e54-0102-4a14-9325-177e395a86d6"
+        ],
+        "vid": [
+          7890912
+        ],
+        "view_count": [
+          1949
+        ],
+        "search_api_id": [
+          "entity:node/137120:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/net-district-domestic-product-constant-2004-2005-prices"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          1079
+        ],
+        "published_date": [
+          1413873290
+        ],
+        "body:value": [
+          "Net District Domestic Product is defined as a measure, in monetary terms, of the volume of all goods and services produced within the boundaries of the district during a given period of time after deducting the wear and tear or depreciation, accounted without duplication. The data describes the district level Net District Domestic Product of Madhya Pradesh and its growth rate at constant prices of the base year 2004-05."
+        ],
+        "changed": [
+          1413874754
+        ],
+        "created": [
+          1413522575
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "All"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "domestic",
+          "prices",
+          "Constant"
+        ],
+        "nid": [
+          137110
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Net District Domestic Product At Constant (2004-2005) Prices "
+        ],
+        "uuid": [
+          "d5aff2b2-a9aa-42f6-914c-ca0efe7754c9"
+        ],
+        "vid": [
+          7890908
+        ],
+        "view_count": [
+          967
+        ],
+        "search_api_id": [
+          "entity:node/137110:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/sector-wise-employment-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          2372
+        ],
+        "published_date": [
+          1413463102
+        ],
+        "body:value": [
+          "Employment is an agreement between an employer and an employee that the employee will provide certain services on the job, and in the employers designated workplace, to facilitate the accomplishment of the employer organization goals and mission, in return for compensation. The dataset contains different sector wise number of employments in Madhya Pradesh."
+        ],
+        "changed": [
+          1413463102
+        ],
+        "created": [
+          1413443953
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "Employment",
+          "number"
+        ],
+        "nid": [
+          136662
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Sector wise Employment in Madhya Pradesh"
+        ],
+        "uuid": [
+          "dda53086-06e5-47a3-a8f7-d09da150dc22"
+        ],
+        "vid": [
+          7890895
+        ],
+        "view_count": [
+          2192
+        ],
+        "search_api_id": [
+          "entity:node/136662:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/state-industries-working-days-days-incident-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          1006
+        ],
+        "published_date": [
+          1413875784
+        ],
+        "body:value": [
+          "The data refers to State Industries Working days, Off days, Incident in Madhya Pradesh. it describes the   number of disputes in industries, number of affected workers and Mandays lost over the period of time during dispute in industries."
+        ],
+        "changed": [
+          1413875784
+        ],
+        "created": [
+          1413443640
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "Affected",
+          "Worker",
+          "Man",
+          "Dispute"
+        ],
+        "nid": [
+          136657
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "State Industries Working days, Off days, Incident in Madhya Pradesh"
+        ],
+        "uuid": [
+          "ad0821c9-0780-46ba-bbb9-5432f90a81f8"
+        ],
+        "vid": [
+          7890891
+        ],
+        "view_count": [
+          918
+        ],
+        "search_api_id": [
+          "entity:node/136657:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/metric-ton-production-value-major-minerals-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          1652
+        ],
+        "published_date": [
+          1413465005
+        ],
+        "body:value": [
+          "The data contains year wise production of major minerals Value like Coal, Bauxite, Copper Ore, Iron Ore, Manganese Ore, Rock Phosphate, Dolomite, Fire Clay, Limestone, Ochre, Diamond (In Carates) in Madhya Pradesh."
+        ],
+        "changed": [
+          1413465005
+        ],
+        "created": [
+          1413442361
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "Bauxite",
+          "Coal",
+          "Diamond",
+          "Dolomite",
+          "Fire",
+          "Iron",
+          "mineral",
+          "Production",
+          "Copper",
+          "Manganese",
+          "Ochre",
+          "Ore",
+          "Phosphate",
+          "Rock",
+          "Clay",
+          "Limese",
+          "Carate"
+        ],
+        "nid": [
+          136649
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Per Metric ton production value of Major Minerals in Madhya Pradesh"
+        ],
+        "uuid": [
+          "ef7cead5-af9e-4f55-94ca-5b54fac22a71"
+        ],
+        "vid": [
+          7890887
+        ],
+        "view_count": [
+          1514
+        ],
+        "search_api_id": [
+          "entity:node/136649:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/value-major-minerals-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          851
+        ],
+        "published_date": [
+          1413868784
+        ],
+        "body:value": [
+          "Madhya Pradesh is rich in natural resources like fuels and minerals. The state also has ample reserves of coal and coal-bed. Not only this, state has the largest reserve of diamond and copper in India and  significant reserves of limestone, manganese and dolomite too.Hence the data refers to the significant increase in value of these major minerals over a period of time."
+        ],
+        "changed": [
+          1413868784
+        ],
+        "created": [
+          1413441795
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "major",
+          "mineral",
+          "Value"
+        ],
+        "nid": [
+          136644
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Value of Major Minerals in Madhya Pradesh"
+        ],
+        "uuid": [
+          "1aefd24e-60f4-47dd-9b3a-77005fe67c60"
+        ],
+        "vid": [
+          7890883
+        ],
+        "view_count": [
+          729
+        ],
+        "search_api_id": [
+          "entity:node/136644:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/production-major-minerals-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          11819
+        ],
+        "published_date": [
+          1413790592
+        ],
+        "body:value": [
+          "Madhya Pradesh is the only diamond producing State in the country and is the leading producer of copper conc., pyrophyllite, manganese ore, diaspore and clay (others). The State hosts the countrys 90% diamond, 63% diaspore, 61% laterite, 56% pyrophyllite, 41% molybdenum, 29% dolomite, 17% each of rock phosphate & fireclay resources.Important mineral occurrences in the State are: Coal, Bauxite, Copper Ore, Iron Ore, Manganese Ore, Rock Phosphate, Dolomite, Fire Clay, Limestone, Ochre, Diamond (In Carates)."
+        ],
+        "changed": [
+          1461578492
+        ],
+        "created": [
+          1413441367
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "mineral",
+          "Production"
+        ],
+        "nid": [
+          136641
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Production of Major Minerals in Madhya Pradesh"
+        ],
+        "uuid": [
+          "f7686b1f-cf64-430c-9fd3-9906f10bf5f7"
+        ],
+        "vid": [
+          7890879
+        ],
+        "view_count": [
+          11406
+        ],
+        "search_api_id": [
+          "entity:node/136641:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/labour-and-employment-statistics-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          4322
+        ],
+        "published_date": [
+          1413875754
+        ],
+        "body:value": [
+          "The data gives insight to Labour and Employment Statistics in Madhya Pradesh. It gives information related to employment exchange available in MP with the number of people registered and given employment including SC/ST."
+        ],
+        "changed": [
+          1413875754
+        ],
+        "created": [
+          1413439806
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "Employment",
+          "Labour"
+        ],
+        "nid": [
+          136633
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Labour and Employment Statistics in Madhya Pradesh"
+        ],
+        "uuid": [
+          "7e5b7fd8-fe31-4c4a-b186-9e131f42ac9a"
+        ],
+        "vid": [
+          7890873
+        ],
+        "view_count": [
+          3997
+        ],
+        "search_api_id": [
+          "entity:node/136633:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/district-wise-wheat-production-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          19111
+        ],
+        "published_date": [
+          1413785786
+        ],
+        "body:value": [
+          "Wheat is a Rabi crop that is grown in the winter season. Sowing of wheat takes place in October to December and harvesting is done during the months of February and May. The wheat crop needs cool winters and hot summers, which is why the fertile plains of the Indo-Gangetic region are the most conducive for growing it. Though well-drained loams and clayey loams are considered the ideal soil for wheat, good crops of wheat have also been raised on sandy loams and black soils of the peninsula region.  The Central zone consists of Madhya Pradesh, Gujarat, southeastern Rajasthan and the Bundelkhand area of Uttar Pradesh. Almost 75 per cent of the wheat cultivated here depends on rain for irrigation. The best quality Durum wheat is produced in this zone."
+        ],
+        "changed": [
+          1422594491
+        ],
+        "created": [
+          1413369256
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "Production",
+          "wheat"
+        ],
+        "nid": [
+          136257
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "District wise Wheat Production in Madhya Pradesh"
+        ],
+        "uuid": [
+          "f0c5b560-a7bb-4472-ac16-6d0573c2aa3e"
+        ],
+        "vid": [
+          7890865
+        ],
+        "view_count": [
+          17937
+        ],
+        "search_api_id": [
+          "entity:node/136257:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/district-wise-soyabean-production-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          18228
+        ],
+        "published_date": [
+          1413783292
+        ],
+        "body:value": [
+          "Soyabean posses a very high nutritional value. It contains about 20 per cent oil and 40 per cent high quality protein (as against 7.0 per cent in rice, 12 per cent in wheat, 10 per cent in maize and 20-25 per cent in other pulses). Soyabean being the richest, cheapest and easiest source of best quality proteins and fats and having a vast multiplicity of uses as food and industrial products is sometimes called a wonder crop. Production of Soyabean in India at the present time is restricted mainly to Madhya Pradesh, Uttar Pradesh Maharashtra and Gujarat. Soyabean is used for making high protein food for children. Soyabean grows well in warm and moist climate. A temperature of 26.5 to 30C appears to be the optimum for most of the varieties. Soil temperatures of 15.5C or above favour rapid germination and vigorous seedling growth. The minimum temperature for effective growth is about 10C. Well drained and fertile loam soils with a pH between 6.0 and 7.5 are most suitable for the cultivation of soybean. Sodic and saline soils inhibit germination of seeds. In acidic soils, liming has to be done to raise the pH to about seven. Water logging is injurious to the crop."
+        ],
+        "changed": [
+          1420800963
+        ],
+        "created": [
+          1413369048
+        ],
+        "field_asset_jurisdiction:name": [
+          "State"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "Production",
+          "Soyabean"
+        ],
+        "nid": [
+          136254
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "District wise Soyabean Production in Madhya pradesh"
+        ],
+        "uuid": [
+          "ed7fc667-1302-4a66-8219-5c96f4ebb37a"
+        ],
+        "vid": [
+          7890858
+        ],
+        "view_count": [
+          17236
+        ],
+        "search_api_id": [
+          "entity:node/136254:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/district-wise-paddy-production-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          9482
+        ],
+        "published_date": [
+          1413781921
+        ],
+        "body:value": [
+          "India has the largest paddy output in the world and is also the fourth largest exporter of rice in the world. Paddy fields are a common sight throughout India, both in the northern gangetic plains and the southern peninsular plateaus. Paddy is cultivated at least twice a year in most parts of India, the two seasons being known as Rabi and Kharif respectively. The former cultivation is dependent on irrigation, while the latter depends on Monsoon. The paddy cultivation plays a major role in socio-cultural life of rural India."
+        ],
+        "changed": [
+          1422594499
+        ],
+        "created": [
+          1413368676
+        ],
+        "field_asset_jurisdiction:name": [
+          "State"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "paddy",
+          "Production"
+        ],
+        "nid": [
+          136252
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "District wise Paddy Production in Madhya Pradesh"
+        ],
+        "uuid": [
+          "78943b4b-a7d9-4f1f-8db5-5d1051a37e3f"
+        ],
+        "vid": [
+          7890849
+        ],
+        "view_count": [
+          9085
+        ],
+        "search_api_id": [
+          "entity:node/136252:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/district-wise-maize-production-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          7493
+        ],
+        "published_date": [
+          1413549070
+        ],
+        "body:value": [
+          "Maize (Zea mays L) is one of the most versatile emerging crops having wider adaptability under\nvaried agro-climatic conditions. Globally, maize is known as queen of cereals because it has the \nhighest genetic yield potential among the cereals."
+        ],
+        "changed": [
+          1413550200
+        ],
+        "created": [
+          1413368507
+        ],
+        "field_asset_jurisdiction:name": [
+          "State"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "maize",
+          "Production"
+        ],
+        "nid": [
+          136246
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "District wise Maize Production in Madhya Pradesh"
+        ],
+        "uuid": [
+          "6fe93985-67ea-45b7-86cb-026b3bc8dd06"
+        ],
+        "vid": [
+          7890845
+        ],
+        "view_count": [
+          5899
+        ],
+        "search_api_id": [
+          "entity:node/136246:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/district-wise-jowar-production-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          1938
+        ],
+        "published_date": [
+          1413549951
+        ],
+        "body:value": [
+          "Jowar (sorghum) is one of the most important cereal crops in the world and is one of the four major food grains of our country. It is a staple food for millions of poor rural people in Asian and African countries. Besides being a major source of staple food for human beings, it also serves as an important source of fodder, animal feed and industrial raw material."
+        ],
+        "changed": [
+          1420800963
+        ],
+        "created": [
+          1413368330
+        ],
+        "field_asset_jurisdiction:name": [
+          "State"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "Jowar",
+          "Production"
+        ],
+        "nid": [
+          136243
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "District wise Jowar Production in Madhya Pradesh"
+        ],
+        "uuid": [
+          "49c0ccf7-3727-4cd0-815b-784c322ef0c6"
+        ],
+        "vid": [
+          7890838
+        ],
+        "view_count": [
+          1633
+        ],
+        "search_api_id": [
+          "entity:node/136243:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/district-wise-gram-production-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          7188
+        ],
+        "published_date": [
+          1413547007
+        ],
+        "body:value": [
+          "The chickpea (Cicer arietinum) is a legume of the family Fabaceae, subfamily Faboideae. Formerly known as the gram, it is also commonly known as garbanzo or garbanzo bean and sometimes known as ceci, cece, channa, or Bengal gram."
+        ],
+        "changed": [
+          1424431082
+        ],
+        "created": [
+          1413368172
+        ],
+        "field_asset_jurisdiction:name": [
+          "State"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "gram",
+          "Production"
+        ],
+        "nid": [
+          136240
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "District wise Gram Production in Madhya Pradesh"
+        ],
+        "uuid": [
+          "4548dbc9-2f1e-48be-aba7-a24cd4c39d34"
+        ],
+        "vid": [
+          7890829
+        ],
+        "view_count": [
+          7015
+        ],
+        "search_api_id": [
+          "entity:node/136240:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/district-wise-cotton-production-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          7904
+        ],
+        "published_date": [
+          1413541877
+        ],
+        "body:value": [
+          "Cotton is a soft, fluffy staple fiber that grows in a boll, or protective capsule, around the seeds of cotton plants of the genus Gossypium in the family of Malvaceae. The fiber is almost pure cellulose. Under natural conditions, the cotton bolls will tend to increase the dispersion of the seeds."
+        ],
+        "changed": [
+          1420800968
+        ],
+        "created": [
+          1413367985
+        ],
+        "field_asset_jurisdiction:name": [
+          "State"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "cotton",
+          "Production"
+        ],
+        "nid": [
+          136237
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "District wise Cotton Production in Madhya Pradesh"
+        ],
+        "uuid": [
+          "ec9fffa7-a48d-46a4-9a0f-13db7e76d3d0"
+        ],
+        "vid": [
+          7890822
+        ],
+        "view_count": [
+          7592
+        ],
+        "search_api_id": [
+          "entity:node/136237:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/district-wise-wheat-farming-area-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          3942
+        ],
+        "published_date": [
+          1413872050
+        ],
+        "body:value": [
+          "Madhya Pradesh has earned a name for its high wheat production and quality.Madhya Pradesh is an important wheat growing state, accounting for 8.7% of production and 14.3% of the area under cultivation."
+        ],
+        "changed": [
+          1422594502
+        ],
+        "created": [
+          1413287517
+        ],
+        "field_asset_jurisdiction:name": [
+          "State"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "Cultivation",
+          "wheat",
+          "Farming"
+        ],
+        "nid": [
+          135775
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "District wise Wheat Farming Area in Madhya Pradesh"
+        ],
+        "uuid": [
+          "150a8dbd-2f2b-4604-a113-6661514af467"
+        ],
+        "vid": [
+          7890814
+        ],
+        "view_count": [
+          3801
+        ],
+        "search_api_id": [
+          "entity:node/135775:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "api_request_count": [
+          1
+        ],
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/district-wise-sugarcane-farming-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          5934
+        ],
+        "published_date": [
+          1413537504
+        ],
+        "body:value": [
+          "Sugarcane belongs to the grass family (Poaceae), an economically important seed plant family that includes maize, wheat, rice, and sorghum and many forage crops. The main product of sugarcane is sucrose, which accumulates in the stalk internodes. Sucrose, extracted and purified in specialized mill factories, is used as raw material in human food industries or is fermented to produce ethanol."
+        ],
+        "changed": [
+          1420800963
+        ],
+        "created": [
+          1413287261
+        ],
+        "field_asset_jurisdiction:name": [
+          "State"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "area",
+          "Sugarcane",
+          "Farming"
+        ],
+        "nid": [
+          135770
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "District wise Sugarcane Farming in Madhya Pradesh"
+        ],
+        "uuid": [
+          "b1643783-88ff-4806-bb50-70110e0f2cc0"
+        ],
+        "vid": [
+          7890808
+        ],
+        "view_count": [
+          5654
+        ],
+        "search_api_id": [
+          "entity:node/135770:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/district-wise-soyabean-farming-area-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          6673
+        ],
+        "published_date": [
+          1413871986
+        ],
+        "body:value": [
+          "Madhya Pradesh has a unique identity as the soya producing state of India. It produces 54% of the total production of soya in the country.The western and north-western parts of Madhya Pradesh are major soya producing areas. Comparatively, eastern and southern parts of Madhya Pradesh produce very little of it.Good and substantial production of soybean has increased the number of soya processing industries in the state. It is popular as a rich food, full of proteins and its oil is the best vegetable oil available in the market. Hence the data gives insight to details of district wise soyabean farming area in MP."
+        ],
+        "changed": [
+          1422594496
+        ],
+        "created": [
+          1413287034
+        ],
+        "field_asset_jurisdiction:name": [
+          "State"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "Cultivation",
+          "Farming",
+          "Soyabean"
+        ],
+        "nid": [
+          135768
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "District wise Soyabean Farming Area in Madhya Pradesh"
+        ],
+        "uuid": [
+          "abcb0f1a-21b1-4d7a-b2bc-fe32d92e3889"
+        ],
+        "vid": [
+          7890799
+        ],
+        "view_count": [
+          5799
+        ],
+        "search_api_id": [
+          "entity:node/135768:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/district-wise-paddy-farming-area-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          4522
+        ],
+        "published_date": [
+          1413871900
+        ],
+        "body:value": [
+          "The Data refers to the paddy farming area available at district level in Madhya Pradesh. It has been observed that in MP, the  22% of the total agricultural land is used for paddy production. Eastern M. P. is the main area for paddy production."
+        ],
+        "changed": [
+          1426508255
+        ],
+        "created": [
+          1413286847
+        ],
+        "field_asset_jurisdiction:name": [
+          "State"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "Cultivation",
+          "paddy",
+          "Farming"
+        ],
+        "nid": [
+          135766
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "District wise Paddy Farming Area in Madhya Pradesh"
+        ],
+        "uuid": [
+          "032bdef9-2149-470a-a2af-59d986c244d8"
+        ],
+        "vid": [
+          7890792
+        ],
+        "view_count": [
+          4190
+        ],
+        "search_api_id": [
+          "entity:node/135766:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/district-wise-maize-paddy-farming-area-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          1782
+        ],
+        "published_date": [
+          1413876011
+        ],
+        "body:value": [
+          "The data refers to District wise Maize Paddy Farming Area in Madhya Pradesh.The importance of maize or corn lies in its wide variety of applications besides serving as human food and animal feed. It is a source for a large number of industrial products - maize corn, corn starch, corn oil, baby corn, popcorn, dairy feed, poultry feed, piggery, agro-industries, and so on"
+        ],
+        "changed": [
+          1422594489
+        ],
+        "created": [
+          1413286615
+        ],
+        "field_asset_jurisdiction:name": [
+          "All India"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "All"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "Cultivation",
+          "maize",
+          "paddy",
+          "Farming"
+        ],
+        "nid": [
+          135764
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "District wise Maize Paddy Farming Area in Madhya Pradesh "
+        ],
+        "uuid": [
+          "99f07393-5a54-4525-a1f1-9bf5aff35ac5"
+        ],
+        "vid": [
+          7890784
+        ],
+        "view_count": [
+          1607
+        ],
+        "search_api_id": [
+          "entity:node/135764:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/district-wise-jowar-farming-area-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          646
+        ],
+        "published_date": [
+          1413871882
+        ],
+        "body:value": [
+          "Jowar (sorghum) is one of the most important cereal crops in the world and is one of the four major food grains of our country. It is a staple food for millions of poor rural people in Asian and African countries. Besides being a major source of staple food for human beings, it also serves as an important source of fodder, animal feed and industrial raw material."
+        ],
+        "changed": [
+          1420800963
+        ],
+        "created": [
+          1413286309
+        ],
+        "field_asset_jurisdiction:name": [
+          "State"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "Cultivation",
+          "Jowar"
+        ],
+        "nid": [
+          135762
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "District wise Jowar Farming Area in Madhya Pradesh"
+        ],
+        "uuid": [
+          "b75d8978-d86d-4e94-ad98-1ca869b25144"
+        ],
+        "vid": [
+          7890778
+        ],
+        "view_count": [
+          557
+        ],
+        "search_api_id": [
+          "entity:node/135762:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/district-wise-gram-farming-area-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          2522
+        ],
+        "published_date": [
+          1413871708
+        ],
+        "body:value": [
+          "Gram or chana or chickpea is a very important variety of pulses. Dal, besan (flour), crushed or whole gram, boiled or parched, roasted or cooked, salted or unsalted or sweet preparations and green foliage and grain, as vegetables, are the important forms in which it is consumed by the people.Gram is an important rabi crop mainly sown in September -November and harvested in February. Sometimes, it is also grown as a regularly or partially irrigated crop.Gram in India is cultivated in Madhya Pradesh, Rajasthan, Uttar Pradesh, Maharashtra and Haryana."
+        ],
+        "changed": [
+          1420800968
+        ],
+        "created": [
+          1413286080
+        ],
+        "field_asset_jurisdiction:name": [
+          "State"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "Cultivation",
+          "gram",
+          "Farming"
+        ],
+        "nid": [
+          135759
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "District wise Gram Farming Area in Madhya Pradesh"
+        ],
+        "uuid": [
+          "5c9b7997-5fc9-4eda-bc26-bbb1c0dc3c1f"
+        ],
+        "vid": [
+          7890772
+        ],
+        "view_count": [
+          2432
+        ],
+        "search_api_id": [
+          "entity:node/135759:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "api_request_count": [
+          1
+        ],
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/district-wise-cotton-farming-area-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          3338
+        ],
+        "published_date": [
+          1413871814
+        ],
+        "body:value": [
+          "Cotton is a soft, fluffy staple fiber that grows in a boll, or protective capsule, around the seeds of cotton plants of the genus Gossypium in the family of Malvaceae. The fiber is almost pure cellulose. Under natural conditions, the cotton bolls will tend to increase the dispersion of the seeds."
+        ],
+        "changed": [
+          1420800968
+        ],
+        "created": [
+          1413285725
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "cotton",
+          "Cultivation",
+          "Farming"
+        ],
+        "nid": [
+          135757
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "District wise Cotton Farming Area in Madhya Pradesh"
+        ],
+        "uuid": [
+          "138c1d47-97e6-4d30-acda-185774971ac8"
+        ],
+        "vid": [
+          7890766
+        ],
+        "view_count": [
+          2444
+        ],
+        "search_api_id": [
+          "entity:node/135757:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/madhya-pradesh-economic-indicator"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          1989
+        ],
+        "published_date": [
+          1413200190
+        ],
+        "body:value": [
+          "Getting data on Madhya Pradesh Economic Indicator Year 2009 to 2014. The economic indicators are Gross Domestic product At Current Price, Gross Domestic product At Constant (2004-05) price, Net Domestic Product At Current Price, Net Domestic Product At  Constant  (2004-05) Price, Per Capita Gross Domestic Product At Current Price.\nPer Capita Gross Domestic Product At Constant (2004-05) Price\n"
+        ],
+        "changed": [
+          1413200190
+        ],
+        "created": [
+          1411805419
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_group_name:name": [
+          "Economic Survey of Madhya Pradesh 2013 and 2014"
+        ],
+        "field_sector:name": [
+          "Statistics"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Planning, Economics and Statistics Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "domestic",
+          "GDP",
+          "Gross",
+          "NDP",
+          "Net"
+        ],
+        "nid": [
+          127975
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Madhya Pradesh Economic Indicator"
+        ],
+        "uuid": [
+          "ce396d4c-646c-4280-8ba5-88f15c17aa18"
+        ],
+        "vid": [
+          7890662
+        ],
+        "view_count": [
+          1814
+        ],
+        "search_api_id": [
+          "entity:node/127975:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/master-data-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          11992
+        ],
+        "published_date": [
+          1411129481
+        ],
+        "body:value": [
+          "Master Data of Madhya Pradesh.Division Name ,Parliamentary Constituency, District Name ,Assembly Constituency,Block,Tehsil,Gram Panchyat,Village name of Madhya Pradesh.\r\nMapping of all Division Name ,Parliamentary Constituency, District Name ,Assembly Constituency,Block,Tehsil,Gram Panchyat,Village with respective codes.\r\n"
+        ],
+        "changed": [
+          1411129860
+        ],
+        "created": [
+          1409144722
+        ],
+        "field_asset_jurisdiction:name": [
+          "State"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_sector:name": [
+          "Information and Communications",
+          "Information and Technology"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Information Technology Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "Block",
+          "District",
+          "village",
+          "Tehsil",
+          "Division"
+        ],
+        "nid": [
+          122638
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Master Data of Madhya Pradesh"
+        ],
+        "uuid": [
+          "8f082f14-9b65-409a-9be7-b9e2d4a242a5"
+        ],
+        "vid": [
+          7890557
+        ],
+        "view_count": [
+          11461
+        ],
+        "search_api_id": [
+          "entity:node/122638:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/list-krishi-vigyan-kendra-kvk-north-east-region"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          5227
+        ],
+        "published_date": [
+          1411130099
+        ],
+        "body:value": [
+          "List of Krishi Vigyan Kendra (KVK) in North East Region (NER) namely Assam, Meghalaya, Manipur, Mizoram, Arunachal Pradesh, Nagaland, Sikkim, Tripura"
+        ],
+        "changed": [
+          1411131043
+        ],
+        "created": [
+          1408610438
+        ],
+        "field_asset_jurisdiction:name": [
+          "All India"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_sector:name": [
+          "Agriculture",
+          "Agricultural Research & Extension"
+        ],
+        "field_state_department:name": [
+          "Meghalaya",
+          "Agriculture Department, Meghalaya"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "KVK",
+          "NE",
+          "North",
+          "Krishi",
+          "Vigyan",
+          "Kendra",
+          "East"
+        ],
+        "nid": [
+          120558
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "List of Krishi Vigyan Kendra (KVK) in North East Region"
+        ],
+        "uuid": [
+          "87dca0e1-82fe-4678-a6b6-181950a73028"
+        ],
+        "vid": [
+          7890541
+        ],
+        "view_count": [
+          4765
+        ],
+        "search_api_id": [
+          "entity:node/120558:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/regional-capacity-building-centre-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          1981
+        ],
+        "published_date": [
+          1409231931
+        ],
+        "body:value": [
+          "Data refers to Regional capacity building centre of Madhya Pradesh. It includes details on Training Center Name, Address English, Centre Contact No, Centre Email, Lead trainer name English, Trainer name English and No of seats.\r\n"
+        ],
+        "changed": [
+          1528109887
+        ],
+        "created": [
+          1407937025
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_sector:name": [
+          "Information and Communications",
+          "Information and Technology"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Information Technology Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "Building",
+          "capacity"
+        ],
+        "nid": [
+          117856
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          " Regional capacity building centre of Madhya Pradesh "
+        ],
+        "uuid": [
+          "dd92a1a1-62bb-4257-94ec-cb93b828dcea"
+        ],
+        "vid": [
+          7890459
+        ],
+        "view_count": [
+          1848
+        ],
+        "search_api_id": [
+          "entity:node/117856:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "api_request_count": [
+          1
+        ],
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/e-governance-societies-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          16635
+        ],
+        "published_date": [
+          1411129307
+        ],
+        "body:value": [
+          "It contains a list of e-Governance Societies  in Madhya Pradesh. It also includes details on District, e-Governance Managers Name, e-Governance Manager Mobile Number, Secretary, District e-Governance Society, District Office Address, NIC EMAIL ID, Contact office Number."
+        ],
+        "changed": [
+          1411129849
+        ],
+        "created": [
+          1407935597
+        ],
+        "field_asset_jurisdiction:name": [
+          "All India"
+        ],
+        "field_ds_govt_type": [
+          "State"
+        ],
+        "field_sector:name": [
+          "Information and Communications",
+          "Information and Technology"
+        ],
+        "field_state_department:name": [
+          "Madhya Pradesh",
+          "Information Technology Department, Madhya Pradesh"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "State"
+        ],
+        "keywords": [
+          "E-Governance",
+          "Initiative"
+        ],
+        "nid": [
+          117846
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "e-Governance Societies  in Madhya Pradesh"
+        ],
+        "uuid": [
+          "942ab8cc-f270-484b-b1b8-a1834867d97d"
+        ],
+        "vid": [
+          7890455
+        ],
+        "view_count": [
+          16292
+        ],
+        "search_api_id": [
+          "entity:node/117846:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/number-private-and-government-colleges-and-enrolment-private-and-government-colleges-based"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          7317
+        ],
+        "published_date": [
+          1401953326
+        ],
+        "body:value": [
+          "Number of private and government colleges and enrolment in private and government colleges (based on actual response). Central Government - Universities/Colleges/Institutions which are maintained by Central Government whether directly or indirectly e.g. University of Delhi is a Central University. Dyal Singh College is a University College of University of Delhi which is getting maintenance grant from UGC. State Government - Universities/Colleges/Institutions which are maintained by State Government whether directly or indirectly e.g. Choudhry Charan Singh University, Meerut is a State University getting maintenance grant from Uttar Pradesh Government. Central Government - Universities/Colleges/Institutions which are maintained by Central Government whether directly or indirectly e.g. University of Delhi is a Central University. Dyal Singh College is a University College of University of Delhi which is getting maintenance grant from UGC. State Government - Universities/Colleges/Institutions which are maintained by State Government whether directly or indirectly e.g. Choudhry Charan Singh University, Meerut is a State University getting maintenance grant from Uttar Pradesh Government."
+        ],
+        "changed": [
+          1401953326
+        ],
+        "created": [
+          1401362976
+        ],
+        "field_asset_jurisdiction:name": [
+          "All India"
+        ],
+        "field_ds_govt_type": [
+          "Central"
+        ],
+        "field_group_name:name": [
+          "Higher Education Statistics"
+        ],
+        "field_ministry_department:name": [
+          "Ministry of Education",
+          "Department of Higher Education"
+        ],
+        "field_sector:name": [
+          "Education",
+          "Higher Education"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "Central"
+        ],
+        "keywords": [
+          "College",
+          "Enrolment",
+          "Private",
+          "Aided"
+        ],
+        "nid": [
+          104096
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Number of private and government colleges and enrolment in private and government colleges (based on actual response)"
+        ],
+        "uuid": [
+          "f82fa2d9-6965-4b38-b8a6-70cd221baedd"
+        ],
+        "vid": [
+          7889201
+        ],
+        "view_count": [
+          6966
+        ],
+        "search_api_id": [
+          "entity:node/104096:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/number-newly-registered-motor-vehicles-and-number-registered-motor-vehicles-andhra-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          18866
+        ],
+        "published_date": [
+          1399460214
+        ],
+        "body:value": [
+          "The data refers to Number of Newly Registered Motor Vehicles and Number of Registered Motor Vehicles in Andhra Pradesh. Registered Motor Vehicles have been categorized in two broad categories, Transport and Non Transport. Multi-axled/ Articulated Vehicles/ Trucks and Lorries, Light Motor Vehicle (Goods),Buses,Taxis,Light Motor Vehicle (Passengers Auto) are falling under Transport Category and Two Wheelers,Cars,Jeeps,Omni Buses,Tractors,Trailers & Others are falling under Non Transport Category."
+        ],
+        "changed": [
+          1472643916
+        ],
+        "created": [
+          1398934148
+        ],
+        "field_asset_jurisdiction:name": [
+          "Andhra Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "Central"
+        ],
+        "field_group_name:name": [
+          "Road Transport"
+        ],
+        "field_ministry_department:name": [
+          "Ministry of Road Transport and Highways"
+        ],
+        "field_sector:name": [
+          "Transport",
+          "Road Transport"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "Central"
+        ],
+        "keywords": [
+          "vehicle",
+          "Registered",
+          "Motor",
+          "Newly"
+        ],
+        "nid": [
+          101131
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "123"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Number of Newly Registered Motor Vehicles and Number of Registered Motor Vehicles in Andhra Pradesh"
+        ],
+        "uuid": [
+          "e41a09fe-ce03-43c1-9ee0-0756bbac7c97"
+        ],
+        "vid": [
+          7888885
+        ],
+        "view_count": [
+          18239
+        ],
+        "search_api_id": [
+          "entity:node/101131:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/number-newly-registered-motor-vehicles-and-number-registered-motor-vehicles-arunachal"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          1234
+        ],
+        "published_date": [
+          1399460661
+        ],
+        "body:value": [
+          "The data refers to Number of Newly Registered Motor Vehicles and Number of Registered Motor Vehicles in Arunachal Pradesh. Registered Motor Vehicles have been categorized in two broad categories, Transport and Non Transport. Multi-axled/ Articulated Vehicles/ Trucks and Lorries, Light Motor Vehicle (Goods),Buses,Taxis,Light Motor Vehicle (Passengers Auto) are falling under Transport Category and Two Wheelers,Cars,Jeeps,Omni Buses,Tractors,Trailers & Others are falling under Non Transport Category."
+        ],
+        "changed": [
+          1472644198
+        ],
+        "created": [
+          1398934148
+        ],
+        "field_asset_jurisdiction:name": [
+          "Arunachal Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "Central"
+        ],
+        "field_group_name:name": [
+          "Road Transport"
+        ],
+        "field_ministry_department:name": [
+          "Ministry of Road Transport and Highways"
+        ],
+        "field_sector:name": [
+          "Transport",
+          "Road Transport"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "Central"
+        ],
+        "keywords": [
+          "vehicle",
+          "Registered",
+          "Motor",
+          "Newly"
+        ],
+        "nid": [
+          101132
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "124"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Number of Newly Registered Motor Vehicles and Number of Registered Motor Vehicles in Arunachal Pradesh"
+        ],
+        "uuid": [
+          "5523f3f9-a1f7-4b37-b5f4-8bcb1f425d22"
+        ],
+        "vid": [
+          7888889
+        ],
+        "view_count": [
+          1138
+        ],
+        "search_api_id": [
+          "entity:node/101132:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "api_request_count": [
+          1
+        ],
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/number-newly-registered-motor-vehicles-and-number-registered-motor-vehicles-himachal"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          4936
+        ],
+        "published_date": [
+          1399469549
+        ],
+        "body:value": [
+          "The data refers to Number of Newly Registered Motor Vehicles and Number of Registered Motor Vehicles in Himachal Pradesh. Registered Motor Vehicles have been categorized in two broad categories, Transport and Non Transport. Multi-axled/ Articulated Vehicles/ Trucks and Lorries, Light Motor Vehicle (Goods),Buses,Taxis,Light Motor Vehicle (Passengers Auto) are falling under Transport Category and Two Wheelers,Cars,Jeeps,Omni Buses,Tractors,Trailers & Others are falling under Non Transport Category."
+        ],
+        "changed": [
+          1472704070
+        ],
+        "created": [
+          1398934148
+        ],
+        "field_asset_jurisdiction:name": [
+          "Himachal Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "Central"
+        ],
+        "field_group_name:name": [
+          "Road Transport"
+        ],
+        "field_ministry_department:name": [
+          "Ministry of Road Transport and Highways"
+        ],
+        "field_sector:name": [
+          "Transport",
+          "Road Transport"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "Central"
+        ],
+        "keywords": [
+          "vehicle",
+          "Registered",
+          "Motor",
+          "Newly"
+        ],
+        "nid": [
+          101139
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "782"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Number of Newly Registered Motor Vehicles and Number of Registered Motor Vehicles in Himachal Pradesh"
+        ],
+        "uuid": [
+          "b4a71ea1-664b-4659-898c-786d5c94b413"
+        ],
+        "vid": [
+          7888917
+        ],
+        "view_count": [
+          4895
+        ],
+        "search_api_id": [
+          "entity:node/101139:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/number-newly-registered-motor-vehicles-and-number-registered-motor-vehicles-madhya-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          40141
+        ],
+        "published_date": [
+          1399469290
+        ],
+        "body:value": [
+          "The data refers to Number of Newly Registered Motor Vehicles and Number of Registered Motor Vehicles in Madhya Pradesh. Registered Motor Vehicles have been categorized in two broad categories, Transport and Non Transport. Multi-axled/ Articulated Vehicles/ Trucks and Lorries, Light Motor Vehicle (Goods),Buses,Taxis,Light Motor Vehicle (Passengers Auto) are falling under Transport Category and Two Wheelers,Cars,Jeeps,Omni Buses,Tractors,Trailers & Others are falling under Non Transport Category."
+        ],
+        "changed": [
+          1472706934
+        ],
+        "created": [
+          1398934148
+        ],
+        "field_asset_jurisdiction:name": [
+          "Madhya Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "Central"
+        ],
+        "field_group_name:name": [
+          "Road Transport"
+        ],
+        "field_ministry_department:name": [
+          "Ministry of Road Transport and Highways"
+        ],
+        "field_sector:name": [
+          "Transport",
+          "Road Transport"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "Central"
+        ],
+        "keywords": [
+          "vehicle",
+          "Registered",
+          "Motor",
+          "Newly"
+        ],
+        "nid": [
+          101144
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "130"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Number of Newly Registered Motor Vehicles and Number of Registered Motor Vehicles in Madhya Pradesh"
+        ],
+        "uuid": [
+          "2ee2b99a-43c6-4ef1-9409-5da4b2469b44"
+        ],
+        "vid": [
+          7888938
+        ],
+        "view_count": [
+          39807
+        ],
+        "search_api_id": [
+          "entity:node/101144:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/number-newly-registered-motor-vehicles-and-number-registered-motor-vehicles-uttar-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          14755
+        ],
+        "published_date": [
+          1399541115
+        ],
+        "body:value": [
+          "The data refers to Number of Newly Registered Motor Vehicles and Number of Registered Motor Vehicles in Uttar Pradesh. Registered Motor Vehicles have been categorized in two broad categories, Transport and Non Transport. Multi-axled/ Articulated Vehicles/ Trucks and Lorries, Light Motor Vehicle (Goods),Buses,Taxis,Light Motor Vehicle (Passengers Auto) are falling under Transport Category and Two Wheelers,Cars,Jeeps,Omni Buses,Tractors,Trailers & Others are falling under Non Transport Category."
+        ],
+        "changed": [
+          1472709169
+        ],
+        "created": [
+          1398934148
+        ],
+        "field_asset_jurisdiction:name": [
+          "Uttar Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "Central"
+        ],
+        "field_group_name:name": [
+          "Road Transport"
+        ],
+        "field_ministry_department:name": [
+          "Ministry of Road Transport and Highways"
+        ],
+        "field_sector:name": [
+          "Transport",
+          "Road Transport"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "Central"
+        ],
+        "keywords": [
+          "vehicle",
+          "Registered",
+          "Motor",
+          "Newly"
+        ],
+        "nid": [
+          101157
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "792"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Number of Newly Registered Motor Vehicles and Number of Registered Motor Vehicles in Uttar Pradesh"
+        ],
+        "uuid": [
+          "28034453-e901-4020-b526-004b68e2c078"
+        ],
+        "vid": [
+          7888990
+        ],
+        "view_count": [
+          14497
+        ],
+        "search_api_id": [
+          "entity:node/101157:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "api_request_count": [
+          6
+        ],
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          1
+        ],
+        "node_alias": [
+          "/catalog/web-map-service-wms-survey-india-osm-data-and-bhuvan-andhra-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          33253
+        ],
+        "published_date": [
+          1394703778
+        ],
+        "body:value": [
+          "This is a OGC compliant Web Map Service (WMS) created by Survey of India from Open Series Map (OSM) Data on 1:50,000 scale and Panchromatic imagery of Bhuvan for Andhra pradesh . These rich data sets can be integrated with any other OGC compliant Web Services to make it more meaningful and solve real life problems. The whole OSM map data is organised in 8 themes which can be made on /off with the tools provided in layer menu. The transparency of the Bhuvan Imagery can be changed by the user as per the requirement using the tool available under layer menu of the India geo-portal. This facilitates the user to have the map and imagery for his specific interest. This WMS is for viewing and not meant for download as the map is served as an image."
+        ],
+        "changed": [
+          1438262116
+        ],
+        "created": [
+          1394699027
+        ],
+        "field_asset_jurisdiction:name": [
+          "Andhra Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "Central"
+        ],
+        "field_group_name:name": [
+          "Web Map Service"
+        ],
+        "field_ministry_department:name": [
+          "Ministry of Science and Technology",
+          "Department of Science and Technology (DST)",
+          "NSDI India GEO Portal, National Spatial Data Infrastructure (NSDI)"
+        ],
+        "field_sector:name": [
+          "All",
+          "Agriculture",
+          "Water and Sanitation",
+          "Information and Communications",
+          "Defence",
+          "Environment and Forest",
+          "Water Resources",
+          "Governance and Administration",
+          "Infrastructure",
+          "Social Development",
+          "Transport",
+          "Travel and Tourism"
+        ],
+        "from_api": [
+          "1"
+        ],
+        "govt_type": [
+          "Central"
+        ],
+        "keywords": [
+          "Bhuvan",
+          "MAP",
+          "Web"
+        ],
+        "nid": [
+          96521
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "123"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Web Map Service (WMS) from Survey of India OSM Data and Bhuvan for Andhra Pradesh"
+        ],
+        "uuid": [
+          "73c90963-a694-449d-86eb-cd12c5a86a40"
+        ],
+        "vid": [
+          7887353
+        ],
+        "view_count": [
+          30199
+        ],
+        "search_api_id": [
+          "entity:node/96521:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "api_request_count": [
+          7
+        ],
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          1
+        ],
+        "node_alias": [
+          "/catalog/web-map-service-survey-india-consisting-362-osm-topo-sheets-andhra-pradesh"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          29119
+        ],
+        "published_date": [
+          1385624137
+        ],
+        "body:value": [
+          "This is a OGC compliant Web Map Service(WMS) created by Survey of India from Open Series Map (OSM) Data of 362 topographical sheets of Andhra Pradesh on 1:50,000 scale. This rich data sets can be integrated with any other OGC compliant Web Services to make it more meaningful and solve real life problems. This WMS is for viewing and not meant for download as the map is served as an image."
+        ],
+        "changed": [
+          1392373094
+        ],
+        "created": [
+          1392283981
+        ],
+        "field_asset_jurisdiction:name": [
+          "State",
+          "Andhra Pradesh"
+        ],
+        "field_ds_govt_type": [
+          "Central"
+        ],
+        "field_ministry_department:name": [
+          "Ministry of Science and Technology",
+          "Department of Science and Technology (DST)",
+          "NSDI India GEO Portal, National Spatial Data Infrastructure (NSDI)"
+        ],
+        "field_sector:name": [
+          "Agriculture",
+          "Water and Sanitation",
+          "Information and Communications",
+          "Environment and Forest",
+          "Water Resources",
+          "Governance and Administration",
+          "Infrastructure",
+          "Transport"
+        ],
+        "from_api": [
+          "1"
+        ],
+        "govt_type": [
+          "Central"
+        ],
+        "keywords": [
+          "MAP",
+          "WMS",
+          "Web",
+          "Graphical",
+          "Open",
+          "Series"
+        ],
+        "nid": [
+          94699
+        ],
+        "ogpl_module_domain_access": [
+          "4",
+          "123"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Web Map Service from Survey of India consisting of 362 OSM Topo Sheets for Andhra Pradesh"
+        ],
+        "uuid": [
+          "22175925-a744-414c-8812-85ce0f09ab63"
+        ],
+        "vid": [
+          7886075
+        ],
+        "view_count": [
+          27777
+        ],
+        "search_api_id": [
+          "entity:node/94699:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/districts-trivial-or-no-deviations-between-proposed-and-actual-expenditure-key-sectors"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          623
+        ],
+        "published_date": [
+          1392017319
+        ],
+        "body:value": [
+          "The data refers to sector-wise funds proposed in District Perspective Plans (DPPs) and funds actually utilized in the five districts, namely, Warrangal (Andhra Pradesh), Pallakad (Kerala), Mayurbhanj (Orrissa), Mon (Nagaland) and Dangs (Gujarat). There were very trivial or no deviations in the amount proposed in the DPPs for various interventions and the amount actually spent on them."
+        ],
+        "changed": [
+          1392366003
+        ],
+        "created": [
+          1391753880
+        ],
+        "field_asset_jurisdiction:name": [
+          "All India"
+        ],
+        "field_ds_govt_type": [
+          "Central"
+        ],
+        "field_ministry_department:name": [
+          "NITI Aayog"
+        ],
+        "field_sector:name": [
+          "Agriculture",
+          "Infrastructure",
+          "Labour and Employment",
+          "Employment"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "Central"
+        ],
+        "keywords": [
+          "RSVY",
+          "Yojna",
+          "Rashtriya",
+          "Sam",
+          "Vikas"
+        ],
+        "nid": [
+          94770
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Districts with Trivial or No Deviations between Proposed and Actual Expenditure by Key Sectors - Based on Sample Survey"
+        ],
+        "uuid": [
+          "4de4ea0f-4191-469d-a447-44fcf58ac404"
+        ],
+        "vid": [
+          7886433
+        ],
+        "view_count": [
+          561
+        ],
+        "search_api_id": [
+          "entity:node/94770:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/source-wise-distribution-farm-machinery-accidents"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          1133
+        ],
+        "published_date": [
+          1410774505
+        ],
+        "body:value": [
+          "The data refers to source-wise distribution of farm machinery accidents. These data are from a study carried out by the All India Coordinated Research Project on Ergonomics and Safety in Agriculture in collaboration with Indian Agricultural Statistics Research Institute (IASRI), New Delhi in seven States namely Madhya Pradesh, Tamil Nadu, Odisha, Punjab, Rajasthan, Arunachal Pradesh and West Bengal."
+        ],
+        "changed": [
+          1410774505
+        ],
+        "created": [
+          1386758400
+        ],
+        "field_asset_jurisdiction:name": [
+          "State"
+        ],
+        "field_ds_govt_type": [
+          "Central"
+        ],
+        "field_ministry_department:name": [
+          "Ministry of Agriculture and Farmers Welfare",
+          "Department of Agricultural Research and Education (DARE)",
+          "Indian Council of Agricultural Research (ICAR)"
+        ],
+        "field_sector:name": [
+          "Agriculture"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "Central"
+        ],
+        "keywords": [
+          "Farm",
+          "Machinery",
+          "Accident"
+        ],
+        "nid": [
+          95728
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Source-wise distribution of farm machinery accidents"
+        ],
+        "uuid": [
+          "965cb008-c128-4c51-a2c9-b9d3145c0364"
+        ],
+        "vid": [
+          7886923
+        ],
+        "view_count": [
+          941
+        ],
+        "search_api_id": [
+          "entity:node/95728:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/frequency-milk-intake-beneficiary-children-home-based-sample-survey"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          951
+        ],
+        "published_date": [
+          1386076937
+        ],
+        "body:value": [
+          "The data refers to Frequency of Milk Intake of beneficiary children at home. It provide details on the frequency of milk intake (daily, sometimes in a week, sometimes in month/year and never) in percentage terms for the selected sample states. About 75 percent of the selected children in Andhra Pradesh said they do not get milk at home. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 48 districts and 480 schools across 17 states of India for 'Performance Evaluation Report of Cooked Mid-Day Meal (CMDM), 2010'. The reference period for the study was 2000 to 2006."
+        ],
+        "changed": [
+          1392273597
+        ],
+        "created": [
+          1385967960
+        ],
+        "field_asset_jurisdiction:name": [
+          "All India"
+        ],
+        "field_ds_govt_type": [
+          "Central"
+        ],
+        "field_group_name:name": [
+          "Education"
+        ],
+        "field_ministry_department:name": [
+          "NITI Aayog"
+        ],
+        "field_sector:name": [
+          "Education",
+          "Elementary"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "Central"
+        ],
+        "keywords": [
+          "CMDM",
+          "Frequency",
+          "Scheme",
+          "School",
+          "Intake",
+          "Fruit",
+          "Cooked",
+          "Meal"
+        ],
+        "nid": [
+          88117
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Frequency of Milk Intake of beneficiary children at home - Based on Sample Survey"
+        ],
+        "uuid": [
+          "4c1b5628-9c39-465d-b903-3579e13e4db7"
+        ],
+        "vid": [
+          7848402
+        ],
+        "view_count": [
+          799
+        ],
+        "search_api_id": [
+          "entity:node/88117:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/investigators-observations-medical-kits-awc"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          1176
+        ],
+        "published_date": [
+          1375449404
+        ],
+        "body:value": [
+          "The data refers to the Investigators observations on medical kits (%AWC). It can be seen that in most AWCs (almost 100%) of Himachal Pradesh, Gujarat, Karnataka, Tamil Nadu and Uttarakhand the medical kit were available."
+        ],
+        "changed": [
+          1392273597
+        ],
+        "created": [
+          1375348200
+        ],
+        "field_asset_jurisdiction:name": [
+          "All India"
+        ],
+        "field_ds_govt_type": [
+          "Central"
+        ],
+        "field_group_name:name": [
+          "Health"
+        ],
+        "field_ministry_department:name": [
+          "NITI Aayog"
+        ],
+        "field_sector:name": [
+          "Health and Family welfare",
+          "Health"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "Central"
+        ],
+        "keywords": [
+          "child",
+          "Development",
+          "ICDS",
+          "Integrated",
+          "Scheme",
+          "Anganwadi",
+          "AWC"
+        ],
+        "nid": [
+          88698
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Investigators Observations on Medical Kits (%AWC)"
+        ],
+        "uuid": [
+          "a0ce4908-a6d3-43f3-968a-5c0b92ac0adf"
+        ],
+        "vid": [
+          7850914
+        ],
+        "view_count": [
+          1115
+        ],
+        "search_api_id": [
+          "entity:node/88698:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/immunization-status-children-12-23-months"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          3043
+        ],
+        "published_date": [
+          1375449523
+        ],
+        "body:value": [
+          "The data refers to Immunization Status of Children (12-23 months). It gives state-wise details regarding immunization status against BCG and measles and all other vaccinations. The states which have been good performers are Andhra Pradesh, Kerala, Himachal Pradesh and Maharashtra."
+        ],
+        "changed": [
+          1392273597
+        ],
+        "created": [
+          1375348200
+        ],
+        "field_asset_jurisdiction:name": [
+          "All India"
+        ],
+        "field_ds_govt_type": [
+          "Central"
+        ],
+        "field_group_name:name": [
+          "Health"
+        ],
+        "field_ministry_department:name": [
+          "NITI Aayog"
+        ],
+        "field_sector:name": [
+          "Health and Family welfare",
+          "Health"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "Central"
+        ],
+        "keywords": [
+          "Children",
+          "Development",
+          "ICDS",
+          "Integrated",
+          "Scheme",
+          "Vaccination",
+          "Measel"
+        ],
+        "nid": [
+          88526
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Immunization Status of Children (12-23 months)"
+        ],
+        "uuid": [
+          "1655f519-d63c-4e18-977d-6fea7646821d"
+        ],
+        "vid": [
+          7850249
+        ],
+        "view_count": [
+          2809
+        ],
+        "search_api_id": [
+          "entity:node/88526:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/lactating-mothers-following-advices-regarding-servicesactivities-about-child-care-discussed"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          735
+        ],
+        "published_date": [
+          1375449543
+        ],
+        "body:value": [
+          "The data refers to the lactating mothers following advices regarding services/activities about Child Care discussed during NHE. It is observed that the best performing states have been Andhra Pradesh, Kerala and Himachal Pradesh specifically on factors such taking care and monitoring of child's growth, immunization, breast feeding, colostrum feeding, treatment of diarrhoea, education of child, Cleanliness and hygiene."
+        ],
+        "changed": [
+          1392273597
+        ],
+        "created": [
+          1375348200
+        ],
+        "field_asset_jurisdiction:name": [
+          "All India"
+        ],
+        "field_ds_govt_type": [
+          "Central"
+        ],
+        "field_group_name:name": [
+          "Health"
+        ],
+        "field_ministry_department:name": [
+          "NITI Aayog"
+        ],
+        "field_sector:name": [
+          "Health and Family welfare",
+          "Health"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "Central"
+        ],
+        "keywords": [
+          "child",
+          "Development",
+          "ICDS",
+          "Integrated",
+          "Scheme",
+          "Mother",
+          "Lactating"
+        ],
+        "nid": [
+          88745
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Lactating Mothers Following Advices Regarding Services/Activities about Child Care Discussed During NHE"
+        ],
+        "uuid": [
+          "fdfb76af-f88d-466e-97d4-51fe9277aa7e"
+        ],
+        "vid": [
+          7851088
+        ],
+        "view_count": [
+          659
+        ],
+        "search_api_id": [
+          "entity:node/88745:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/pregnant-women-following-advices-regarding-servicesactivities-about-child-care-discussed"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          863
+        ],
+        "published_date": [
+          1375449532
+        ],
+        "body:value": [
+          "The data refers to the pregnant women following advices regarding services/activities about child care discussed during NHE. It is observed that the best performing states have been Andhra Pradesh, Kerala and Himachal Pradesh specifically on factors such taking care and monitoring of child's growth, immunization, breast feeding, colostrum feeding, treatment of diarrhoea, education of child, Cleanliness and hygiene."
+        ],
+        "changed": [
+          1392283981
+        ],
+        "created": [
+          1375348200
+        ],
+        "field_asset_jurisdiction:name": [
+          "All India"
+        ],
+        "field_ds_govt_type": [
+          "Central"
+        ],
+        "field_group_name:name": [
+          "Health"
+        ],
+        "field_ministry_department:name": [
+          "NITI Aayog"
+        ],
+        "field_sector:name": [
+          "Health and Family welfare",
+          "Health"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "Central"
+        ],
+        "keywords": [
+          "child",
+          "Development",
+          "ICDS",
+          "Integrated",
+          "Scheme",
+          "Care"
+        ],
+        "nid": [
+          90288
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Pregnant Women Following Advices Regarding Services/Activities about Child Care Discussed During NHE"
+        ],
+        "uuid": [
+          "5e8a0e18-512f-4d11-b30b-dc7822cb7760"
+        ],
+        "vid": [
+          7857392
+        ],
+        "view_count": [
+          804
+        ],
+        "search_api_id": [
+          "entity:node/90288:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/pregnant-women-following-advices-regarding-servicesactivities-about-mother-care-discussed"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          780
+        ],
+        "published_date": [
+          1375449538
+        ],
+        "body:value": [
+          "The data refers to the Pregnant Women Following Advices Regarding Services/Activities about Mother Care Discussed During NHE (%). It is observed that the best performing states have been Andhra Pradesh, Kerala and Himachal Pradesh specifically on factors such as immunization during pregnancy, institutional delivery, feeding practices during pregnancy, correct posture during pregnancy, self-care, nipple hygiene, family planning, cleanliness and hygiene."
+        ],
+        "changed": [
+          1392283981
+        ],
+        "created": [
+          1375348200
+        ],
+        "field_asset_jurisdiction:name": [
+          "All India"
+        ],
+        "field_ds_govt_type": [
+          "Central"
+        ],
+        "field_group_name:name": [
+          "Health"
+        ],
+        "field_ministry_department:name": [
+          "NITI Aayog"
+        ],
+        "field_sector:name": [
+          "Health and Family welfare",
+          "Health"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "Central"
+        ],
+        "keywords": [
+          "child",
+          "Development",
+          "ICDS",
+          "Integrated",
+          "Scheme"
+        ],
+        "nid": [
+          90290
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Pregnant Women Following Advices Regarding Services/Activities about Mother Care Discussed During NHE (%)"
+        ],
+        "uuid": [
+          "f8c7e0de-7cc3-4008-bf4a-5188356b914e"
+        ],
+        "vid": [
+          7857398
+        ],
+        "view_count": [
+          745
+        ],
+        "search_api_id": [
+          "entity:node/90290:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/access-household-amenities-worst-performing-states-terms-toilet-facilities"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          2689
+        ],
+        "published_date": [
+          1369905150
+        ],
+        "body:value": [
+          "The data refers to access to Household amenities (Toilet Facilities, Tap water, Radio, Television, Telephone) in worst performing states (Jharkhand, Madhya Pradesh, Odisha, Chhattisgarh, Bihar, Rajasthan, Uttar Pradesh, Tamil Nadu, Karnataka & Andhra Pradesh) in terms of Toilet facilities in Rural India, 2011."
+        ],
+        "changed": [
+          1392273597
+        ],
+        "created": [
+          1369828080
+        ],
+        "field_ds_govt_type": [
+          "Central"
+        ],
+        "field_group_name:name": [
+          "Sanitation"
+        ],
+        "field_ministry_department:name": [
+          "NITI Aayog"
+        ],
+        "field_sector:name": [
+          "Rural"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "Central"
+        ],
+        "keywords": [
+          "Radio",
+          "Rural",
+          "Telephone",
+          "Television",
+          "Toilet",
+          "Water",
+          "Facility"
+        ],
+        "nid": [
+          85694
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Access To Household Amenities In Worst Performing States In Terms Of Toilet Facilities"
+        ],
+        "uuid": [
+          "dee5580f-2cdd-4df1-912d-2242f64037a9"
+        ],
+        "vid": [
+          7839346
+        ],
+        "view_count": [
+          2567
+        ],
+        "search_api_id": [
+          "entity:node/85694:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/scheme-purchase-home-site-and-incentive-additional-target-under-iay-twelfth-five-year-plan"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          9076
+        ],
+        "published_date": [
+          1369676073
+        ],
+        "body:value": [
+          "This data gives information about those states, which are able to claim the incentive provided by central government for purchase of land to provide home site to the IAY beneficiaries leading to additional target achieved under the program. As large poor population in country do not have the land to build IAY house for the benefit of BPL, only a few States such as Bihar, Karnataka, Kerala, Rajasthan, Andhra Pradesh, Maharashtra, UP and Sikkim have requested for funds in 2009-10 and 2010-11 for purchase of homestead land under this scheme."
+        ],
+        "changed": [
+          1436419242
+        ],
+        "created": [
+          1369669860
+        ],
+        "field_asset_jurisdiction:name": [
+          "All India"
+        ],
+        "field_ds_govt_type": [
+          "Central"
+        ],
+        "field_group_name:name": [
+          "Rural Development"
+        ],
+        "field_ministry_department:name": [
+          "NITI Aayog"
+        ],
+        "field_sector:name": [
+          "Urban",
+          "Rural",
+          "Development"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "Central"
+        ],
+        "keywords": [
+          "BPL",
+          "Central",
+          "land",
+          "Purchase",
+          "Convergence",
+          "Homestead"
+        ],
+        "nid": [
+          90829
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Scheme For Purchase of Home Site And Incentive For Additional Target Under IAY - Twelfth Five Year Plan Document"
+        ],
+        "uuid": [
+          "6b21fe7c-23bd-4211-8f4a-2b988e71a538"
+        ],
+        "vid": [
+          7859394
+        ],
+        "view_count": [
+          8979
+        ],
+        "search_api_id": [
+          "entity:node/90829:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      },
+      {
+        "high_value_dataset": [
+          0
+        ],
+        "is_api_available": [
+          0
+        ],
+        "is_priced": [
+          0
+        ],
+        "is_webservice": [
+          0
+        ],
+        "node_alias": [
+          "/catalog/indicators-annual-health-survey"
+        ],
+        "ogdp_custom_field": [
+          "test"
+        ],
+        "ogdp_view_count": [
+          30749
+        ],
+        "published_date": [
+          1398406005
+        ],
+        "body:value": [
+          "The Ministry of Health and Family Welfare, in collaboration with the Registrar General of India (RGI), had launched an Annual Health Survey (AHS) in the erstwhile Empowered Action Group States (Bihar, Jharkhand, Madhya Pradesh, Chhattisgarh, Uttarakhand, Uttar Pradesh, Orissa and Rajasthan and Assam). AHS provides District-wise data on various parameters i.e. Sample Particulars, Household Characteristics, Sex Ratio, Effective Literacy Rate, Marriage, Schooling Status, Work Status, Disability, Injury, Acute Illness, Chronic Illness, Fertility, Abortion, Family Planning Practices, Unmet Need for Family Planning, Ante Natal Care, Delivery Care, Post Natal Care, Janani Suraksha Yojana (JSY), Immunization, Vitamin A & Iron Supplement and Birth Weight, Childhood Diseases, Breastfeeding and Supplementation, Birth Registration, Awareness and Confidence Interval (95%) for some important Indicators . The aim of the survey was to provide feedback on the impact of the schemes under NHM in reduction of Total Fertility Rate (TFR), Infant Mortality Rate (IMR) at the district level and the Maternal Mortality Ratio (MMR) at the regional level by estimating these rates on an annual basis for around 284 districts in these States."
+        ],
+        "changed": [
+          1566286971
+        ],
+        "created": [
+          1357893240
+        ],
+        "field_asset_jurisdiction:name": [
+          "All India"
+        ],
+        "field_ds_govt_type": [
+          "Central"
+        ],
+        "field_group_name:name": [
+          "Annual Health Survey"
+        ],
+        "field_ministry_department:name": [
+          "Ministry of Health and Family Welfare",
+          "Department of Health and Family Welfare"
+        ],
+        "field_sector:name": [
+          "Health and Family welfare",
+          "Family Welfare",
+          "Health"
+        ],
+        "from_api": [
+          "0"
+        ],
+        "govt_type": [
+          "Central"
+        ],
+        "keywords": [
+          "AHS",
+          "child",
+          "Fertility",
+          "IMR",
+          "Infant",
+          "maternal",
+          "MMR",
+          "Mortality",
+          "RCH",
+          "Reproductive",
+          "TFR",
+          "Rate",
+          "Ratio"
+        ],
+        "nid": [
+          88640
+        ],
+        "ogpl_module_domain_access": [
+          "4"
+        ],
+        "ogpl_module_domain_name": [
+          "data.gov.in"
+        ],
+        "title": [
+          "Indicators from Annual Health Survey"
+        ],
+        "uuid": [
+          "cecaab9a-418f-45ee-9ad1-4e7047e03c0c"
+        ],
+        "vid": [
+          7850691
+        ],
+        "view_count": [
+          28476
+        ],
+        "search_api_id": [
+          "entity:node/88640:en"
+        ],
+        "search_api_datasource": [
+          "entity:node"
+        ],
+        "search_api_language": [
+          "en"
+        ]
+      }
+    ],
+    "aggregations": {
+      "ogpl_module_domain_name": {
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [
+          {
+            "key": "data.gov.in",
+            "doc_count": 150
+          },
+          {
+            "key": "karnataka.data.gov.in",
+            "doc_count": 7
+          },
+          {
+            "key": "smartcities.data.gov.in",
+            "doc_count": 6
+          },
+          {
+            "key": "ap.data.gov.in",
+            "doc_count": 1
+          }
+        ]
+      },
+      "field_ministry_department:name": {
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [
+          {
+            "key": "Department of Health and Family Welfare",
+            "doc_count": 43
+          },
+          {
+            "key": "Ministry of Health and Family Welfare",
+            "doc_count": 43
+          },
+          {
+            "key": "NITI Aayog",
+            "doc_count": 9
+          },
+          {
+            "key": "Ministry of Housing and Urban Affairs",
+            "doc_count": 6
+          },
+          {
+            "key": "Smart Cities Mission",
+            "doc_count": 6
+          },
+          {
+            "key": "Department of Home",
+            "doc_count": 5
+          },
+          {
+            "key": "Ministry of Home Affairs",
+            "doc_count": 5
+          },
+          {
+            "key": "Ministry of Road Transport and Highways",
+            "doc_count": 5
+          },
+          {
+            "key": "Registrar General and Census Commissioner, India",
+            "doc_count": 5
+          },
+          {
+            "key": "Madhya Pradesh",
+            "doc_count": 4
+          },
+          {
+            "key": "Sagar",
+            "doc_count": 4
+          },
+          {
+            "key": "Department of Science and Technology (DST)",
+            "doc_count": 2
+          },
+          {
+            "key": "Ministry of Science and Technology",
+            "doc_count": 2
+          },
+          {
+            "key": "NSDI India GEO Portal, National Spatial Data Infrastructure (NSDI)",
+            "doc_count": 2
+          },
+          {
+            "key": "Department of Agricultural Research and Education (DARE)",
+            "doc_count": 1
+          },
+          {
+            "key": "Department of Higher Education",
+            "doc_count": 1
+          },
+          {
+            "key": "Department of Space",
+            "doc_count": 1
+          },
+          {
+            "key": "Dharamshala",
+            "doc_count": 1
+          },
+          {
+            "key": "Himachal Pradesh",
+            "doc_count": 1
+          },
+          {
+            "key": "Indian Council of Agricultural Research (ICAR)",
+            "doc_count": 1
+          },
+          {
+            "key": "Indian Space Research Organization",
+            "doc_count": 1
+          },
+          {
+            "key": "Kanpur",
+            "doc_count": 1
+          },
+          {
+            "key": "Ministry of Agriculture and Farmers Welfare",
+            "doc_count": 1
+          },
+          {
+            "key": "Ministry of Education",
+            "doc_count": 1
+          },
+          {
+            "key": "Ministry of Ports, Shipping and Waterways",
+            "doc_count": 1
+          },
+          {
+            "key": "National Remote Sensing Centre",
+            "doc_count": 1
+          },
+          {
+            "key": "Uttar Pradesh",
+            "doc_count": 1
+          }
+        ]
+      },
+      "ministry_department_recent": {
+        "doc_count_error_upper_bound": -1,
+        "sum_other_doc_count": 97,
+        "buckets": [
+          {
+            "key": "Dharamshala",
+            "doc_count": 1,
+            "max_created": {
+              "value": 1642780246000,
+              "value_as_string": "2022-01-21T15:50:46.000Z"
+            }
+          },
+          {
+            "key": "Himachal Pradesh",
+            "doc_count": 1,
+            "max_created": {
+              "value": 1642780246000,
+              "value_as_string": "2022-01-21T15:50:46.000Z"
+            }
+          },
+          {
+            "key": "Ministry of Housing and Urban Affairs",
+            "doc_count": 6,
+            "max_created": {
+              "value": 1642780246000,
+              "value_as_string": "2022-01-21T15:50:46.000Z"
+            }
+          },
+          {
+            "key": "Smart Cities Mission",
+            "doc_count": 6,
+            "max_created": {
+              "value": 1642780246000,
+              "value_as_string": "2022-01-21T15:50:46.000Z"
+            }
+          },
+          {
+            "key": "Department of Health and Family Welfare",
+            "doc_count": 43,
+            "max_created": {
+              "value": 1615293064000,
+              "value_as_string": "2021-03-09T12:31:04.000Z"
+            }
+          }
+        ]
+      },
+      "field_state_department:name": {
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [
+          {
+            "key": "Madhya Pradesh",
+            "doc_count": 71
+          },
+          {
+            "key": "Planning, Economics and Statistics Department, Madhya Pradesh",
+            "doc_count": 44
+          },
+          {
+            "key": "Economics and Statistics Department, Himachal Pradesh",
+            "doc_count": 10
+          },
+          {
+            "key": "Himachal Pradesh",
+            "doc_count": 10
+          },
+          {
+            "key": "Information Technology Department, Madhya Pradesh",
+            "doc_count": 8
+          },
+          {
+            "key": "Agriculture Department, Karnataka",
+            "doc_count": 7
+          },
+          {
+            "key": "Karnataka",
+            "doc_count": 7
+          },
+          {
+            "key": "Co-operation Department, Madhya Pradesh",
+            "doc_count": 6
+          },
+          {
+            "key": "Commerce, Industry and Employment Department, Madhya Pradesh",
+            "doc_count": 5
+          },
+          {
+            "key": "Transport Department, Madhya Pradesh",
+            "doc_count": 4
+          },
+          {
+            "key": "Food, Civil Supplies and Consumer Protection Department, Madhya Pradesh",
+            "doc_count": 3
+          },
+          {
+            "key": "Agriculture Department, Meghalaya",
+            "doc_count": 1
+          },
+          {
+            "key": "Andhra Pradesh",
+            "doc_count": 1
+          },
+          {
+            "key": "Farmer Welfare and Agriculture Development Department, Madhya Pradesh",
+            "doc_count": 1
+          },
+          {
+            "key": "Information Technology and Communications Department, Andhra Pradesh",
+            "doc_count": 1
+          },
+          {
+            "key": "Meghalaya",
+            "doc_count": 1
+          },
+          {
+            "key": "RTGS",
+            "doc_count": 1
+          }
+        ]
+      },
+      "field_city:name": {
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": []
+      },
+      "others_org": {
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": []
+      },
+      "field_asset_jurisdiction:name": {
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [
+          {
+            "key": "Madhya Pradesh",
+            "doc_count": 61
+          },
+          {
+            "key": "All India",
+            "doc_count": 59
+          },
+          {
+            "key": "State",
+            "doc_count": 56
+          },
+          {
+            "key": "Himachal Pradesh",
+            "doc_count": 19
+          },
+          {
+            "key": "Andhra Pradesh",
+            "doc_count": 11
+          },
+          {
+            "key": "Arunachal Pradesh",
+            "doc_count": 8
+          },
+          {
+            "key": "Uttar Pradesh",
+            "doc_count": 8
+          },
+          {
+            "key": "Uttara Kannada (Karwar)",
+            "doc_count": 7
+          },
+          {
+            "key": "Sagar",
+            "doc_count": 4
+          },
+          {
+            "key": "Bhopal",
+            "doc_count": 1
+          },
+          {
+            "key": "Kangra",
+            "doc_count": 1
+          }
+        ]
+      },
+      "field_sector:name": {
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [
+          {
+            "key": "Health and Family welfare",
+            "doc_count": 49
+          },
+          {
+            "key": "Health",
+            "doc_count": 48
+          },
+          {
+            "key": "Statistics",
+            "doc_count": 47
+          },
+          {
+            "key": "Family Welfare",
+            "doc_count": 43
+          },
+          {
+            "key": "Agriculture",
+            "doc_count": 14
+          },
+          {
+            "key": "Transport",
+            "doc_count": 13
+          },
+          {
+            "key": "Road Transport",
+            "doc_count": 10
+          },
+          {
+            "key": "All",
+            "doc_count": 9
+          },
+          {
+            "key": "Crops",
+            "doc_count": 7
+          },
+          {
+            "key": "Information and Communications",
+            "doc_count": 6
+          },
+          {
+            "key": "Others",
+            "doc_count": 6
+          },
+          {
+            "key": "Census",
+            "doc_count": 5
+          },
+          {
+            "key": "Census and Surveys",
+            "doc_count": 5
+          },
+          {
+            "key": "Industries",
+            "doc_count": 5
+          },
+          {
+            "key": "Labour and Employment",
+            "doc_count": 4
+          },
+          {
+            "key": "Power and Energy",
+            "doc_count": 4
+          },
+          {
+            "key": "Public Distribution",
+            "doc_count": 4
+          },
+          {
+            "key": "Education",
+            "doc_count": 3
+          },
+          {
+            "key": "Food",
+            "doc_count": 3
+          },
+          {
+            "key": "Governance and Administration",
+            "doc_count": 3
+          },
+          {
+            "key": "Information and Technology",
+            "doc_count": 3
+          },
+          {
+            "key": "Infrastructure",
+            "doc_count": 3
+          },
+          {
+            "key": "Employment",
+            "doc_count": 2
+          },
+          {
+            "key": "Environment and Forest",
+            "doc_count": 2
+          },
+          {
+            "key": "Rural",
+            "doc_count": 2
+          },
+          {
+            "key": "Travel and Tourism",
+            "doc_count": 2
+          },
+          {
+            "key": "Water Resources",
+            "doc_count": 2
+          },
+          {
+            "key": "Water and Sanitation",
+            "doc_count": 2
+          },
+          {
+            "key": "Agricultural Research & Extension",
+            "doc_count": 1
+          },
+          {
+            "key": "Defence",
+            "doc_count": 1
+          },
+          {
+            "key": "Development",
+            "doc_count": 1
+          },
+          {
+            "key": "Elementary",
+            "doc_count": 1
+          },
+          {
+            "key": "Higher Education",
+            "doc_count": 1
+          },
+          {
+            "key": "Horticulture",
+            "doc_count": 1
+          },
+          {
+            "key": "Police",
+            "doc_count": 1
+          },
+          {
+            "key": "Social Development",
+            "doc_count": 1
+          },
+          {
+            "key": "Urban",
+            "doc_count": 1
+          },
+          {
+            "key": "Water ways",
+            "doc_count": 1
+          }
+        ]
+      },
+      "field_group_name:name": {
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [
+          {
+            "key": "Health Management Information System",
+            "doc_count": 35
+          },
+          {
+            "key": "Economic Survey of Madhya Pradesh 2013 and 2014",
+            "doc_count": 33
+          },
+          {
+            "key": "Estimates of State Domestic product Madhya Pradesh 2004-05 \u2013 2012-13",
+            "doc_count": 11
+          },
+          {
+            "key": "Feeder",
+            "doc_count": 6
+          },
+          {
+            "key": "HMIS",
+            "doc_count": 6
+          },
+          {
+            "key": "Health",
+            "doc_count": 5
+          },
+          {
+            "key": "Road Transport",
+            "doc_count": 5
+          },
+          {
+            "key": "Socio-Economic",
+            "doc_count": 5
+          },
+          {
+            "key": "Himachal Pradesh State Abstract",
+            "doc_count": 4
+          },
+          {
+            "key": "Annual Health Survey",
+            "doc_count": 3
+          },
+          {
+            "key": "Industry",
+            "doc_count": 3
+          },
+          {
+            "key": "Aadhaar",
+            "doc_count": 1
+          },
+          {
+            "key": "Department of Agriculture",
+            "doc_count": 1
+          },
+          {
+            "key": "Education",
+            "doc_count": 1
+          },
+          {
+            "key": "Energy",
+            "doc_count": 1
+          },
+          {
+            "key": "Export Promotion",
+            "doc_count": 1
+          },
+          {
+            "key": "Higher Education Statistics",
+            "doc_count": 1
+          },
+          {
+            "key": "Port Statistics",
+            "doc_count": 1
+          },
+          {
+            "key": "Power",
+            "doc_count": 1
+          },
+          {
+            "key": "Rural Development",
+            "doc_count": 1
+          },
+          {
+            "key": "Sanitation",
+            "doc_count": 1
+          },
+          {
+            "key": "Web Map Service",
+            "doc_count": 1
+          }
+        ]
+      },
+      "monthwise": {
+        "buckets": [
+          {
+            "key_as_string": "5",
+            "key": 1367366400000,
+            "doc_count": 2
+          },
+          {
+            "key_as_string": "6",
+            "key": 1370044800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "7",
+            "key": 1372636800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "8",
+            "key": 1375315200000,
+            "doc_count": 5
+          },
+          {
+            "key_as_string": "9",
+            "key": 1377993600000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "10",
+            "key": 1380585600000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "11",
+            "key": 1383264000000,
+            "doc_count": 1
+          },
+          {
+            "key_as_string": "12",
+            "key": 1385856000000,
+            "doc_count": 1
+          },
+          {
+            "key_as_string": "1",
+            "key": 1388534400000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "2",
+            "key": 1391212800000,
+            "doc_count": 1
+          },
+          {
+            "key_as_string": "3",
+            "key": 1393632000000,
+            "doc_count": 1
+          },
+          {
+            "key_as_string": "4",
+            "key": 1396310400000,
+            "doc_count": 1
+          },
+          {
+            "key_as_string": "5",
+            "key": 1398902400000,
+            "doc_count": 5
+          },
+          {
+            "key_as_string": "6",
+            "key": 1401580800000,
+            "doc_count": 1
+          },
+          {
+            "key_as_string": "7",
+            "key": 1404172800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "8",
+            "key": 1406851200000,
+            "doc_count": 1
+          },
+          {
+            "key_as_string": "9",
+            "key": 1409529600000,
+            "doc_count": 4
+          },
+          {
+            "key_as_string": "10",
+            "key": 1412121600000,
+            "doc_count": 33
+          },
+          {
+            "key_as_string": "11",
+            "key": 1414800000000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "12",
+            "key": 1417392000000,
+            "doc_count": 6
+          },
+          {
+            "key_as_string": "1",
+            "key": 1420070400000,
+            "doc_count": 5
+          },
+          {
+            "key_as_string": "2",
+            "key": 1422748800000,
+            "doc_count": 10
+          },
+          {
+            "key_as_string": "3",
+            "key": 1425168000000,
+            "doc_count": 7
+          },
+          {
+            "key_as_string": "4",
+            "key": 1427846400000,
+            "doc_count": 10
+          },
+          {
+            "key_as_string": "5",
+            "key": 1430438400000,
+            "doc_count": 1
+          },
+          {
+            "key_as_string": "6",
+            "key": 1433116800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "7",
+            "key": 1435708800000,
+            "doc_count": 1
+          },
+          {
+            "key_as_string": "8",
+            "key": 1438387200000,
+            "doc_count": 8
+          },
+          {
+            "key_as_string": "9",
+            "key": 1441065600000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "10",
+            "key": 1443657600000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "11",
+            "key": 1446336000000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "12",
+            "key": 1448928000000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "1",
+            "key": 1451606400000,
+            "doc_count": 4
+          },
+          {
+            "key_as_string": "2",
+            "key": 1454284800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "3",
+            "key": 1456790400000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "4",
+            "key": 1459468800000,
+            "doc_count": 2
+          },
+          {
+            "key_as_string": "5",
+            "key": 1462060800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "6",
+            "key": 1464739200000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "7",
+            "key": 1467331200000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "8",
+            "key": 1470009600000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "9",
+            "key": 1472688000000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "10",
+            "key": 1475280000000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "11",
+            "key": 1477958400000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "12",
+            "key": 1480550400000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "1",
+            "key": 1483228800000,
+            "doc_count": 4
+          },
+          {
+            "key_as_string": "2",
+            "key": 1485907200000,
+            "doc_count": 1
+          },
+          {
+            "key_as_string": "3",
+            "key": 1488326400000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "4",
+            "key": 1491004800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "5",
+            "key": 1493596800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "6",
+            "key": 1496275200000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "7",
+            "key": 1498867200000,
+            "doc_count": 2
+          },
+          {
+            "key_as_string": "8",
+            "key": 1501545600000,
+            "doc_count": 3
+          },
+          {
+            "key_as_string": "9",
+            "key": 1504224000000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "10",
+            "key": 1506816000000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "11",
+            "key": 1509494400000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "12",
+            "key": 1512086400000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "1",
+            "key": 1514764800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "2",
+            "key": 1517443200000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "3",
+            "key": 1519862400000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "4",
+            "key": 1522540800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "5",
+            "key": 1525132800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "6",
+            "key": 1527811200000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "7",
+            "key": 1530403200000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "8",
+            "key": 1533081600000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "9",
+            "key": 1535760000000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "10",
+            "key": 1538352000000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "11",
+            "key": 1541030400000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "12",
+            "key": 1543622400000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "1",
+            "key": 1546300800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "2",
+            "key": 1548979200000,
+            "doc_count": 3
+          },
+          {
+            "key_as_string": "3",
+            "key": 1551398400000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "4",
+            "key": 1554076800000,
+            "doc_count": 2
+          },
+          {
+            "key_as_string": "5",
+            "key": 1556668800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "6",
+            "key": 1559347200000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "7",
+            "key": 1561939200000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "8",
+            "key": 1564617600000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "9",
+            "key": 1567296000000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "10",
+            "key": 1569888000000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "11",
+            "key": 1572566400000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "12",
+            "key": 1575158400000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "1",
+            "key": 1577836800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "2",
+            "key": 1580515200000,
+            "doc_count": 5
+          },
+          {
+            "key_as_string": "3",
+            "key": 1583020800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "4",
+            "key": 1585699200000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "5",
+            "key": 1588291200000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "6",
+            "key": 1590969600000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "7",
+            "key": 1593561600000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "8",
+            "key": 1596240000000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "9",
+            "key": 1598918400000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "10",
+            "key": 1601510400000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "11",
+            "key": 1604188800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "12",
+            "key": 1606780800000,
+            "doc_count": 10
+          },
+          {
+            "key_as_string": "1",
+            "key": 1609459200000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "2",
+            "key": 1612137600000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "3",
+            "key": 1614556800000,
+            "doc_count": 5
+          },
+          {
+            "key_as_string": "4",
+            "key": 1617235200000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "5",
+            "key": 1619827200000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "6",
+            "key": 1622505600000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "7",
+            "key": 1625097600000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "8",
+            "key": 1627776000000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "9",
+            "key": 1630454400000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "10",
+            "key": 1633046400000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "11",
+            "key": 1635724800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "12",
+            "key": 1638316800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "1",
+            "key": 1640995200000,
+            "doc_count": 1
+          },
+          {
+            "key_as_string": "2",
+            "key": 1643673600000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "3",
+            "key": 1646092800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "4",
+            "key": 1648771200000,
+            "doc_count": 1
+          },
+          {
+            "key_as_string": "5",
+            "key": 1651363200000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "6",
+            "key": 1654041600000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "7",
+            "key": 1656633600000,
+            "doc_count": 10
+          },
+          {
+            "key_as_string": "8",
+            "key": 1659312000000,
+            "doc_count": 6
+          },
+          {
+            "key_as_string": "9",
+            "key": 1661990400000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "10",
+            "key": 1664582400000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "11",
+            "key": 1667260800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "12",
+            "key": 1669852800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "1",
+            "key": 1672531200000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "2",
+            "key": 1675209600000,
+            "doc_count": 1
+          }
+        ]
+      },
+      "yearwise": {
+        "buckets": [
+          {
+            "key_as_string": "2013",
+            "key": 1356998400000,
+            "doc_count": 9
+          },
+          {
+            "key_as_string": "2014",
+            "key": 1388534400000,
+            "doc_count": 53
+          },
+          {
+            "key_as_string": "2015",
+            "key": 1420070400000,
+            "doc_count": 42
+          },
+          {
+            "key_as_string": "2016",
+            "key": 1451606400000,
+            "doc_count": 6
+          },
+          {
+            "key_as_string": "2017",
+            "key": 1483228800000,
+            "doc_count": 10
+          },
+          {
+            "key_as_string": "2018",
+            "key": 1514764800000,
+            "doc_count": 0
+          },
+          {
+            "key_as_string": "2019",
+            "key": 1546300800000,
+            "doc_count": 5
+          },
+          {
+            "key_as_string": "2020",
+            "key": 1577836800000,
+            "doc_count": 15
+          },
+          {
+            "key_as_string": "2021",
+            "key": 1609459200000,
+            "doc_count": 5
+          },
+          {
+            "key_as_string": "2022",
+            "key": 1640995200000,
+            "doc_count": 18
+          },
+          {
+            "key_as_string": "2023",
+            "key": 1672531200000,
+            "doc_count": 1
+          }
+        ]
+      },
+      "high_value_dataset": {
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [
+          {
+            "key": 0,
+            "doc_count": 164
+          }
+        ]
+      },
+      "is_priced": {
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [
+          {
+            "key": 0,
+            "doc_count": 164
+          }
+        ]
+      },
+      "is_webservice": {
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [
+          {
+            "key": 0,
+            "doc_count": 161
+          },
+          {
+            "key": 1,
+            "doc_count": 3
+          }
+        ]
+      },
+      "having_api": {
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": []
+      },
+      "is_api_available": {
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [
+          {
+            "key": 0,
+            "doc_count": 161
+          },
+          {
+            "key": 1,
+            "doc_count": 3
+          }
+        ]
+      }
+    }
+  }
+}
