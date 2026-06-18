@@ -77,6 +77,17 @@ python src/download_all_catalogs.py
 - catalogs.csv
 
 ---
+## Key Findings
+
+1. Health and Family Welfare is the most represented sector with the largest number of published datasets.
+
+2. The Ministry of Health and Family Welfare is the leading contributor of datasets on the platform.
+
+3. Dataset availability is concentrated in a few sectors, while several domains appear underrepresented.
+
+4. Some records contain incomplete organisation metadata, indicating a need for better metadata governance.
+
+5. These insights can help SDA prioritise departmental outreach and improve metadata registry design.
 
 ## Author
 

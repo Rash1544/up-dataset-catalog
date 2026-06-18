@@ -232,3 +232,33 @@ if "sector" in df.columns:
     )
 
 print("\nAnalysis Complete")
+print("\n========== FINAL SUMMARY ==========\n")
+
+print(
+    "1. The Health and Family Welfare sector has the highest representation "
+    "among Uttar Pradesh related datasets, indicating strong public data "
+    "availability in healthcare and social welfare domains."
+)
+
+print(
+    "2. The Ministry of Health and Family Welfare is the most active publishing "
+    "organisation, while several datasets have missing organisation information, "
+    "highlighting opportunities for metadata standardisation."
+)
+
+print(
+    "3. Dataset coverage is concentrated in a few sectors such as Health, "
+    "Statistics, Agriculture and Transport, suggesting that other sectors may "
+    "need additional outreach and participation."
+)
+
+print(
+    "4. Analysis of metadata quality shows that most datasets contain useful "
+    "descriptions, but consistency varies across publishers."
+)
+
+print(
+    "5. These findings can help the State Data Authority prioritise departments "
+    "for onboarding, improve metadata standards, and design a more complete "
+    "Metadata Registry for Uttar Pradesh."
+)
